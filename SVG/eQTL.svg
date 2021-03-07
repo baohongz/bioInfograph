@@ -1,0 +1,700 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="392" height="354">
+<defs>
+<clipPath id="a">
+<path fill="none" d="M45.117 26.4h308.87v283.534H45.118V26.4z"/>
+</clipPath>
+</defs>
+<path fill="#FFF" paint-order="stroke fill markers" d="M.5.5h392v354H.5z"/>
+<path fill="none" stroke="#CCC" paint-order="fill stroke markers" d="M45.117 309.5h307.87M45.117 296.5h307.87M45.117 282.5h307.87M45.117 269.5h307.87M45.117 255.5h307.87M45.117 242.5h307.87M45.117 229.5h307.87M45.117 215.5h307.87M45.117 202.5h307.87M45.117 188.5h307.87M45.117 175.5h307.87M45.117 162.5h307.87M45.117 148.5h307.87M45.117 135.5h307.87M45.117 121.5h307.87M45.117 108.5h307.87M45.117 95.5h307.87M45.117 81.5h307.87M45.117 68.5h307.87M45.117 54.5h307.87M45.117 41.5h307.87M45.117 28.5h307.87" stroke-miterlimit="10" stroke-width=".333"/>
+<path fill="none" stroke="#CCC" paint-order="fill stroke markers" d="M45.117 309.5h307.87M43.017 309.5h2.1M45.117 242.5h307.87M43.017 242.5h2.1M45.117 175.5h307.87M43.017 175.5h2.1M45.117 108.5h307.87M43.017 108.5h2.1M45.117 41.5h307.87M43.017 41.5h2.1" stroke-miterlimit="10"/>
+<g clip-path="url(#a)">
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M59.5 208.5h24v27h-24z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M58.945 223.5H82.6M71.5 235.596v22.772M77.187 258.5H64.36M71.5 208.136v-31.478M77.187 177.5H64.36" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M110.5 135.5h24v26h-24z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M110.256 146.5h23.656M122.5 160.92v35.16M128.498 196.5H115.67M122.5 134.8V97.292M128.498 97.5H115.67" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M162.5 72.5h24v26h-24z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M161.568 85.5h23.656M173.5 97.628v23.776M179.81 121.5h-12.828M173.5 71.842V38.355M179.81 38.5h-12.828" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M213.5 227.5h24v25h-24z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M212.88 238.5h23.656M225.5 251.837v25.618M231.122 277.5h-12.828M225.5 227.057v-29.97M231.122 197.5h-12.828" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M264.5 139.5h24v25h-24z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M264.192 150.5h23.656M276.5 164.938v28.8M282.434 194.5h-12.828M276.5 139.487V102.65M282.434 103.5h-12.828" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M316.5 66.5h24v16h-24z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="none" stroke="#000" paint-order="fill stroke markers" d="M315.504 71.5h23.656M327.5 81.554v15.404M333.746 97.5h-12.828M327.5 65.815v-10.38M333.746 55.5h-12.828" stroke-miterlimit="10"/>
+<path fill="none" stroke="#FE296C" paint-order="fill stroke markers" d="M71.773 223.206l153.935 15.237" stroke-miterlimit="10" stroke-width="2"/>
+<path fill="none" stroke="#487EB6" paint-order="fill stroke markers" d="M123.084 146.185l153.936 3.683" stroke-miterlimit="10" stroke-width="2"/>
+<path fill="none" stroke="#A7CE31" paint-order="fill stroke markers" d="M174.396 85.237l153.936-14.734" stroke-miterlimit="10" stroke-width="2"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M68.75 215a2.75 2.75 0 1 0 0 .003zM70.75 227a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M72.75 226a2.75 2.75 0 1 0 0 .003zM74.75 235a2.75 2.75 0 1 0 0 .003zM77.75 220a2.75 2.75 0 1 0 0 .003zM68.75 235a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M70.75 225a2.75 2.75 0 1 0 0 .003zM72.75 207a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M74.75 203a2.75 2.75 0 1 0 0 .003zM77.75 224a2.75 2.75 0 1 0 0 .003zM68.75 234a2.75 2.75 0 1 0 0 .003zM70.75 186a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M72.75 188a2.75 2.75 0 1 0 0 .003zM74.75 241a2.75 2.75 0 1 0 0 .003zM77.75 210a2.75 2.75 0 1 0 0 .003zM68.75 211a2.75 2.75 0 1 0 0 .003zM70.75 223a2.75 2.75 0 1 0 0 .003zM72.75 196a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M74.75 237a2.75 2.75 0 1 0 0 .003zM77.75 226a2.75 2.75 0 1 0 0 .003zM68.75 242a2.75 2.75 0 1 0 0 .003zM70.75 223a2.75 2.75 0 1 0 0 .003zM72.75 197a2.75 2.75 0 1 0 0 .003zM74.75 245a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M77.75 229a2.75 2.75 0 1 0 0 .003zM68.75 243a2.75 2.75 0 1 0 0 .003zM70.75 210a2.75 2.75 0 1 0 0 .003zM72.75 197a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M74.75 198a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M77.75 199a2.75 2.75 0 1 0 0 .003zM68.75 176a2.75 2.75 0 1 0 0 .003zM70.75 219a2.75 2.75 0 1 0 0 .003zM72.75 237a2.75 2.75 0 1 0 0 .003zM74.75 247a2.75 2.75 0 1 0 0 .003zM77.75 234a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M68.75 215a2.75 2.75 0 1 0 0 .003zM70.75 250a2.75 2.75 0 1 0 0 .003zM72.75 187a2.75 2.75 0 1 0 0 .003zM74.75 223a2.75 2.75 0 1 0 0 .003zM77.75 216a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M68.75 214a2.75 2.75 0 1 0 0 .003zM70.75 208a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M72.75 211a2.75 2.75 0 1 0 0 .003zM74.75 228a2.75 2.75 0 1 0 0 .003zM77.75 239a2.75 2.75 0 1 0 0 .003zM68.75 199a2.75 2.75 0 1 0 0 .003zM70.75 242a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M72.75 208a2.75 2.75 0 1 0 0 .003zM74.75 199a2.75 2.75 0 1 0 0 .003zM77.75 222a2.75 2.75 0 1 0 0 .003zM68.75 226a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M70.75 225a2.75 2.75 0 1 0 0 .003zM72.75 237a2.75 2.75 0 1 0 0 .003zM74.75 213a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M77.75 235a2.75 2.75 0 1 0 0 .003zM68.75 226a2.75 2.75 0 1 0 0 .003zM70.75 201a2.75 2.75 0 1 0 0 .003zM72.75 220a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M74.75 231a2.75 2.75 0 1 0 0 .003zM77.75 247a2.75 2.75 0 1 0 0 .003zM68.75 203a2.75 2.75 0 1 0 0 .003zM70.75 212a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M72.75 247a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M74.75 249a2.75 2.75 0 1 0 0 .003zM77.75 258a2.75 2.75 0 1 0 0 .003zM68.75 208a2.75 2.75 0 1 0 0 .003zM70.75 201a2.75 2.75 0 1 0 0 .003zM72.75 213a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M74.75 258a2.75 2.75 0 1 0 0 .003zM77.75 248a2.75 2.75 0 1 0 0 .003zM68.75 234a2.75 2.75 0 1 0 0 .003zM70.75 200a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M72.75 198a2.75 2.75 0 1 0 0 .003zM74.75 185a2.75 2.75 0 1 0 0 .003zM77.75 246a2.75 2.75 0 1 0 0 .003zM68.75 234a2.75 2.75 0 1 0 0 .003zM70.75 216a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M119.75 165a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M121.75 162a2.75 2.75 0 1 0 0 .003zM124.75 168a2.75 2.75 0 1 0 0 .003zM126.75 119a2.75 2.75 0 1 0 0 .003zM128.75 113a2.75 2.75 0 1 0 0 .003zM119.75 153a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M121.75 156a2.75 2.75 0 1 0 0 .003zM124.75 180a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M126.75 157a2.75 2.75 0 1 0 0 .003zM128.75 122a2.75 2.75 0 1 0 0 .003zM119.75 119a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M121.75 116a2.75 2.75 0 1 0 0 .003zM124.75 165a2.75 2.75 0 1 0 0 .003zM126.75 173a2.75 2.75 0 1 0 0 .003zM128.75 158a2.75 2.75 0 1 0 0 .003zM119.75 148a2.75 2.75 0 1 0 0 .003zM121.75 98a2.75 2.75 0 1 0 0 .003zM124.75 132a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M126.75 153a2.75 2.75 0 1 0 0 .003zM128.75 166a2.75 2.75 0 1 0 0 .003zM119.75 154a2.75 2.75 0 1 0 0 .003zM121.75 190a2.75 2.75 0 1 0 0 .003zM124.75 116a2.75 2.75 0 1 0 0 .003zM126.75 145a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M128.75 164a2.75 2.75 0 1 0 0 .003zM119.75 118a2.75 2.75 0 1 0 0 .003zM121.75 161a2.75 2.75 0 1 0 0 .003zM124.75 173a2.75 2.75 0 1 0 0 .003zM126.75 134a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M128.75 129a2.75 2.75 0 1 0 0 .003zM119.75 171a2.75 2.75 0 1 0 0 .003zM121.75 100a2.75 2.75 0 1 0 0 .003zM124.75 118a2.75 2.75 0 1 0 0 .003zM126.75 144a2.75 2.75 0 1 0 0 .003zM128.75 158a2.75 2.75 0 1 0 0 .003zM119.75 188a2.75 2.75 0 1 0 0 .003zM121.75 130a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 132a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M126.75 134a2.75 2.75 0 1 0 0 .003zM128.75 156a2.75 2.75 0 1 0 0 .003zM119.75 109a2.75 2.75 0 1 0 0 .003zM121.75 155a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 138a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M126.75 136a2.75 2.75 0 1 0 0 .003zM128.75 142a2.75 2.75 0 1 0 0 .003zM119.75 164a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M121.75 135a2.75 2.75 0 1 0 0 .003zM124.75 160a2.75 2.75 0 1 0 0 .003zM126.75 193a2.75 2.75 0 1 0 0 .003zM128.75 179a2.75 2.75 0 1 0 0 .003zM119.75 172a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M121.75 134a2.75 2.75 0 1 0 0 .003zM124.75 112a2.75 2.75 0 1 0 0 .003zM126.75 137a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M128.75 135a2.75 2.75 0 1 0 0 .003zM119.75 204a2.75 2.75 0 1 0 0 .003zM121.75 151a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 131a2.75 2.75 0 1 0 0 .003zM126.75 147a2.75 2.75 0 1 0 0 .003zM128.75 190a2.75 2.75 0 1 0 0 .003zM119.75 155a2.75 2.75 0 1 0 0 .003zM121.75 170a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 157a2.75 2.75 0 1 0 0 .003zM126.75 142a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M128.75 144a2.75 2.75 0 1 0 0 .003zM119.75 117a2.75 2.75 0 1 0 0 .003zM121.75 151a2.75 2.75 0 1 0 0 .003zM124.75 158a2.75 2.75 0 1 0 0 .003zM126.75 170a2.75 2.75 0 1 0 0 .003zM128.75 153a2.75 2.75 0 1 0 0 .003zM119.75 138a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M121.75 136a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 136a2.75 2.75 0 1 0 0 .003zM126.75 97a2.75 2.75 0 1 0 0 .003zM128.75 196a2.75 2.75 0 1 0 0 .003zM119.75 119a2.75 2.75 0 1 0 0 .003zM121.75 146a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 119a2.75 2.75 0 1 0 0 .003zM126.75 156a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M128.75 119a2.75 2.75 0 1 0 0 .003zM119.75 183a2.75 2.75 0 1 0 0 .003zM121.75 141a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 137a2.75 2.75 0 1 0 0 .003zM126.75 165a2.75 2.75 0 1 0 0 .003zM128.75 142a2.75 2.75 0 1 0 0 .003zM119.75 149a2.75 2.75 0 1 0 0 .003zM121.75 174a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 146a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M126.75 150a2.75 2.75 0 1 0 0 .003zM128.75 141a2.75 2.75 0 1 0 0 .003zM119.75 160a2.75 2.75 0 1 0 0 .003zM121.75 131a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M124.75 137a2.75 2.75 0 1 0 0 .003zM126.75 144a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M128.75 141a2.75 2.75 0 1 0 0 .003zM119.75 154a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M121.75 159a2.75 2.75 0 1 0 0 .003zM124.75 135a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M126.75 131a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M128.75 136a2.75 2.75 0 1 0 0 .003zM119.75 120a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 66a2.75 2.75 0 1 0 0 .003zM173.75 85a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 80a2.75 2.75 0 1 0 0 .003zM177.75 93a2.75 2.75 0 1 0 0 .003zM179.75 65a2.75 2.75 0 1 0 0 .003zM171.75 74a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 112a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 73a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 76a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 104a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 98a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 89a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 117a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 64a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 76a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 43a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 66a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 98a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 102a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 70a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 69a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 79a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 97a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 103a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 101a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 100a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 85a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 121a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 87a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 63a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 96a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 101a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 94a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 73a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 85a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 75a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 53a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 94a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 90a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 63a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 74a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 60a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 75a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 38a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 97a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 75a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 93a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 106a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 91a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 88a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 63a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M173.75 99a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M175.75 76a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M177.75 79a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M179.75 90a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M171.75 60a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 258a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 229a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 243a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 229a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 271a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 257a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 232a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 247a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 197a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 234a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 258a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 277a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 222a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 241a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 215a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 243a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 263a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 229a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 224a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 224a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 204a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 240a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 236a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 259a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 254a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 253a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 248a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 251a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 247a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 233a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 214a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 232a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 203a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 241a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 236a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 255a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 233a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 206a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 215a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M230.75 220a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M222.75 242a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M224.75 247a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M226.75 229a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M228.75 252a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 151a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 126a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 148a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 184a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 171a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 170a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 190a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 88a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 175a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 155a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 135a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 162a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 168a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 133a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 164a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 143a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 166a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 139a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 173a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 124a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 154a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 145a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 141a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 159a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 131a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 135a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 135a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 149a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 133a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 155a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 163a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 144a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 113a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 139a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 174a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 156a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 182a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 156a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 173a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 154a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 164a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 147a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 102a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 177a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 139a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 146a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 121a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 146a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 156a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 145a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 124a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 145a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 147a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 153a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 157a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 161a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 135a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 139a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 161a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 193a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 179a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 157a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 146a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 146a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 147a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 177a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 147a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 165a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 169a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 138a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M273.75 160a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M275.75 165a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M278.75 143a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M280.75 139a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M282.75 133a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M325.75 78a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M327.75 67a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M329.75 109a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M331.75 68a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M333.75 56a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M325.75 58a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M327.75 79a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M329.75 67a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M331.75 75a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M333.75 55a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M325.75 59a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M327.75 81a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M329.75 88a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M331.75 96a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M333.75 69a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M325.75 81a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M327.75 83a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M329.75 63a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M331.75 65a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M333.75 78a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M325.75 70a2.75 2.75 0 1 0 0 .003z" fill-opacity=".5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+</g>
+<text font-family="Arial" font-size="15" font-style="italic" text-decoration="normal" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 89.683 77.983)">
+log2(CPM+1)</text>
+<text font-family="Arial" font-size="9" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="translate(40.917 308.934)">
+6.40</text>
+<text font-family="Arial" font-size="9" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="translate(40.917 241.96)">
+6.60</text>
+<text font-family="Arial" font-size="9" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="translate(40.917 174.984)">
+6.80</text>
+<text font-family="Arial" font-size="9" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="translate(40.917 108.01)">
+7.00</text>
+<text font-family="Arial" font-size="9" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="translate(40.917 41.034)">
+7.20</text>
+<text font-family="Arial" font-size="14" text-decoration="normal" text-anchor="middle" dominant-baseline="central" transform="translate(201.152 342.8)">
+rs7187776</text>
+<text font-family="Arial" font-size="10" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="rotate(-90 190.903 120.13)">
+High</text>
+<text font-family="Arial" font-size="10" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="rotate(-90 216.56 94.475)">
+High</text>
+<text font-family="Arial" font-size="10" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="rotate(-90 242.215 68.82)">
+High</text>
+<text font-family="Arial" font-size="10" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="rotate(-90 267.87 43.163)">
+Low</text>
+<text font-family="Arial" font-size="10" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="rotate(-90 293.527 17.507)">
+Low</text>
+<text font-family="Arial" font-size="10" text-decoration="normal" text-anchor="end" dominant-baseline="central" transform="rotate(-90 319.183 -8.15)">
+Low</text>
+<path fill="#FFF" stroke="#CCC" paint-order="fill stroke markers" d="M357.688 138.817H388.3v56.6h-30.612z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<text font-family="Arial" font-size="11" text-decoration="normal" text-anchor="middle" dominant-baseline="central" transform="translate(372.494 145.917)">
+SNP</text>
+<path fill="none" stroke="#CCC" paint-order="fill stroke markers" d="M357.188 154.5H387.8" stroke-miterlimit="10"/>
+<path fill="#FE296C" stroke="#000" paint-order="fill stroke markers" d="M364.388 161.117a2.55 2.55 0 1 0 0 .002z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<text font-family="Arial" font-size="11" text-decoration="normal" dominant-baseline="central" transform="translate(369.438 161.117)">
+AA</text>
+<path fill="#487EB6" stroke="#000" paint-order="fill stroke markers" d="M364.388 174.217a2.55 2.55 0 1 0 0 .002z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<text font-family="Arial" font-size="11" text-decoration="normal" dominant-baseline="central" transform="translate(369.438 174.217)">
+AG</text>
+<g>
+<path fill="#A7CE31" stroke="#000" paint-order="fill stroke markers" d="M364.388 187.317a2.55 2.55 0 1 0 0 .002z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+<g>
+<text font-family="Arial" font-size="11" text-decoration="normal" dominant-baseline="central" transform="translate(369.438 187.317)">
+GG</text>
+</g>
+<g>
+<text font-family="Arial" font-size="18" text-decoration="normal" text-anchor="middle" dominant-baseline="central" transform="translate(196 11.1)">
+Gene expression of TUFM</text>
+</g>
+<g>
+<path fill="none" stroke="#CCC" paint-order="fill stroke markers" d="M.5.5h391v353H.5z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+</g>
+</svg>
+

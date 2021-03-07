@@ -1,0 +1,14 @@
+.grid-stack > .grid-stack-item {
+  @for $i from 1 through 48 {
+    &[data-gs-width='#{$i}'] { width: percentage($i*1/48); }
+    &[data-gs-min-width='#{$i}'] { min-width: percentage($i*1/48); }
+    &[data-gs-max-width='#{$i}'] { max-width: percentage($i*1/48); }
+    &[data-gs-x='#{$i}'] { left: percentage($i*1/48); }
+  }
+}
+
+.grid-stack > .grid-stack-item {
+  min-width: percentage(1/48);
+  position: absolute;
+  padding: 0;
+}

@@ -1,0 +1,1528 @@
+﻿<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="462" height="462" desc="{&quot;version&quot;:15.2,&quot;renderTo&quot;:&quot;canvas_6&quot;,&quot;data&quot;:{&quot;z&quot;:{&quot;Drug&quot;:[&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Unexposed&quot;,&quot;Exposed&quot;,&quot;Exposed&quot;,&quot;Unexposed&quot;],&quot;IFN&quot;:[&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;High&quot;,&quot;Low&quot;,&quot;Low&quot;,&quot;Low&quot;],&quot;Tcell&quot;:[&quot;85.2&quot;,&quot;88.3&quot;,&quot;NA&quot;,&quot;91.3&quot;,&quot;81.2&quot;,&quot;75.2&quot;,&quot;NA&quot;,&quot;71.3&quot;,&quot;73.6&quot;,&quot;85&quot;,&quot;65.2&quot;,&quot;82.3&quot;,&quot;70.4&quot;,&quot;80.6&quot;,&quot;70.9&quot;,&quot;84.3&quot;,&quot;70.1&quot;,&quot;NA&quot;,&quot;78.9&quot;,&quot;NA&quot;,&quot;68.1&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;85.4&quot;,&quot;70.2&quot;,&quot;78.1&quot;,&quot;71.8&quot;,&quot;63.1&quot;,&quot;85.9&quot;,&quot;76.4&quot;,&quot;NA&quot;,&quot;72.1&quot;,&quot;74&quot;,&quot;71.6&quot;,&quot;75.3&quot;,&quot;77.6&quot;,&quot;79.8&quot;,&quot;75&quot;,&quot;70.8&quot;,&quot;60.1&quot;,&quot;81&quot;,&quot;84.9&quot;,&quot;82.7&quot;,&quot;69.2&quot;,&quot;82&quot;,&quot;72.5&quot;,&quot;78.1&quot;,&quot;87.8&quot;,&quot;82.6&quot;,&quot;NA&quot;,&quot;56.8&quot;,&quot;74.1&quot;,&quot;67.1&quot;,&quot;89.5&quot;,&quot;73.9&quot;,&quot;87.7&quot;,&quot;63.5&quot;,&quot;57.1&quot;,&quot;59.1&quot;,&quot;83.2&quot;,&quot;74.2&quot;,&quot;NA&quot;,&quot;67.3&quot;,&quot;79.9&quot;,&quot;77&quot;,&quot;61.9&quot;,&quot;NA&quot;,&quot;82.2&quot;,&quot;70.7&quot;,&quot;57.8&quot;,&quot;77.6&quot;,&quot;81.6&quot;,&quot;89.1&quot;,&quot;70.1&quot;,&quot;75&quot;,&quot;73.3&quot;,&quot;68.5&quot;,&quot;67.8&quot;,&quot;64.5&quot;,&quot;77.4&quot;,&quot;71.5&quot;,&quot;79.7&quot;,&quot;65.4&quot;,&quot;83.2&quot;,&quot;75.6&quot;,&quot;90.9&quot;,&quot;81.3&quot;,&quot;68.4&quot;,&quot;81.9&quot;,&quot;75&quot;,&quot;NA&quot;,&quot;76.2&quot;,&quot;72.9&quot;,&quot;43.7&quot;,&quot;71.4&quot;,&quot;65.3&quot;,&quot;87.5&quot;,&quot;77.2&quot;,&quot;53&quot;,&quot;61.5&quot;,&quot;64.6&quot;,&quot;NA&quot;,&quot;76.1&quot;,&quot;65.2&quot;,&quot;74.5&quot;,&quot;65.9&quot;,&quot;83.4&quot;,&quot;68.2&quot;,&quot;89.9&quot;,&quot;69.8&quot;,&quot;41.1&quot;,&quot;45&quot;,&quot;86.5&quot;,&quot;80.8&quot;,&quot;78.3&quot;,&quot;77.8&quot;,&quot;66.3&quot;,&quot;81.4&quot;,&quot;92.3&quot;,&quot;83.4&quot;,&quot;83.2&quot;,&quot;76.5&quot;,&quot;84.6&quot;,&quot;73.7&quot;,&quot;81.3&quot;,&quot;81.5&quot;,&quot;77.3&quot;,&quot;76.9&quot;,&quot;70.5&quot;,&quot;87.5&quot;,&quot;85.5&quot;,&quot;79.8&quot;,&quot;82.2&quot;,&quot;86.8&quot;,&quot;NA&quot;,&quot;88.5&quot;,&quot;67.4&quot;,&quot;87&quot;,&quot;42.6&quot;,&quot;69.8&quot;,&quot;NA&quot;,&quot;80.1&quot;,&quot;NA&quot;,&quot;77.5&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;80.1&quot;,&quot;70.9&quot;,&quot;34.5&quot;,&quot;NA&quot;,&quot;65.5&quot;,&quot;79.1&quot;,&quot;77.8&quot;,&quot;78.9&quot;,&quot;67.7&quot;,&quot;73.5&quot;,&quot;69.7&quot;,&quot;53.4&quot;,&quot;85&quot;,&quot;89.3&quot;,&quot;74.6&quot;,&quot;68.7&quot;,&quot;NA&quot;,&quot;79.2&quot;,&quot;57&quot;,&quot;84.5&quot;,&quot;86.1&quot;,&quot;79.6&quot;,&quot;54.5&quot;,&quot;63.5&quot;,&quot;71.9&quot;,&quot;88.3&quot;,&quot;76.6&quot;,&quot;74.2&quot;,&quot;63.8&quot;,&quot;NA&quot;,&quot;77.3&quot;,&quot;68.5&quot;,&quot;76.1&quot;,&quot;74.8&quot;,&quot;66.3&quot;,&quot;84&quot;,&quot;76.6&quot;,&quot;70.7&quot;,&quot;51.4&quot;,&quot;76.1&quot;,&quot;73.2&quot;,&quot;83.5&quot;,&quot;91.1&quot;,&quot;71.1&quot;,&quot;71.3&quot;,&quot;85.7&quot;,&quot;65.7&quot;,&quot;NA&quot;,&quot;69&quot;,&quot;81.4&quot;,&quot;74.3&quot;,&quot;75.2&quot;,&quot;NA&quot;,&quot;89.4&quot;,&quot;73.3&quot;,&quot;56&quot;,&quot;67.8&quot;,&quot;69.9&quot;,&quot;73.4&quot;,&quot;77.7&quot;,&quot;78.9&quot;,&quot;76.5&quot;,&quot;79&quot;,&quot;69.7&quot;,&quot;78.2&quot;,&quot;NA&quot;,&quot;51.9&quot;,&quot;83.1&quot;,&quot;76.2&quot;,&quot;74.7&quot;,&quot;51.5&quot;,&quot;80&quot;,&quot;NA&quot;,&quot;82.1&quot;,&quot;81.2&quot;,&quot;71.6&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;52.9&quot;,&quot;83.2&quot;,&quot;NA&quot;,&quot;70&quot;,&quot;NA&quot;,&quot;81.4&quot;,&quot;78.1&quot;,&quot;60&quot;,&quot;84.9&quot;,&quot;72&quot;,&quot;83.5&quot;,&quot;77.5&quot;,&quot;70&quot;,&quot;83.5&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;76.1&quot;,&quot;85.1&quot;,&quot;76.2&quot;,&quot;79.2&quot;,&quot;85.7&quot;,&quot;NA&quot;,&quot;55.1&quot;,&quot;63.1&quot;,&quot;82.5&quot;,&quot;78.6&quot;,&quot;63.6&quot;,&quot;82.6&quot;,&quot;78.8&quot;,&quot;NA&quot;,&quot;72.6&quot;,&quot;NA&quot;,&quot;70.9&quot;,&quot;65.5&quot;,&quot;87.2&quot;,&quot;49.5&quot;,&quot;53&quot;,&quot;82.8&quot;,&quot;45.8&quot;,&quot;78&quot;,&quot;76.8&quot;,&quot;76&quot;,&quot;84.8&quot;,&quot;77&quot;,&quot;66.7&quot;,&quot;82&quot;,&quot;74.7&quot;,&quot;77&quot;,&quot;NA&quot;,&quot;47.2&quot;,&quot;79.4&quot;,&quot;NA&quot;,&quot;66.8&quot;,&quot;79.1&quot;,&quot;37.9&quot;,&quot;63&quot;,&quot;77.9&quot;,&quot;NA&quot;,&quot;67.2&quot;,&quot;64.6&quot;,&quot;78.3&quot;,&quot;64.5&quot;,&quot;82.9&quot;,&quot;64.2&quot;,&quot;NA&quot;,&quot;67.9&quot;,&quot;73.9&quot;,&quot;82.4&quot;,&quot;83&quot;,&quot;83.5&quot;,&quot;82.7&quot;,&quot;78.9&quot;,&quot;66.3&quot;,&quot;50&quot;,&quot;61.8&quot;,&quot;51.3&quot;,&quot;63.9&quot;,&quot;60.3&quot;,&quot;75.7&quot;,&quot;NA&quot;,&quot;55.1&quot;,&quot;57.4&quot;,&quot;88.6&quot;,&quot;84.9&quot;,&quot;70.6&quot;,&quot;65&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;71&quot;,&quot;NA&quot;,&quot;82.6&quot;,&quot;69.7&quot;,&quot;51.9&quot;,&quot;67&quot;,&quot;83.6&quot;,&quot;83.9&quot;,&quot;NA&quot;,&quot;77.1&quot;,&quot;NA&quot;,&quot;78.6&quot;,&quot;74.7&quot;,&quot;70.5&quot;,&quot;58.5&quot;,&quot;71&quot;,&quot;73.1&quot;,&quot;75.4&quot;,&quot;68&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;72.9&quot;,&quot;76.1&quot;,&quot;88.2&quot;,&quot;42.5&quot;,&quot;NA&quot;,&quot;72.5&quot;,&quot;NA&quot;,&quot;70.8&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;83.7&quot;,&quot;63.7&quot;,&quot;62.4&quot;,&quot;71.7&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;84.6&quot;,&quot;NA&quot;,&quot;68.9&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;82.3&quot;,&quot;80.6&quot;,&quot;59.1&quot;,&quot;61.7&quot;,&quot;NA&quot;,&quot;73.4&quot;,&quot;NA&quot;,&quot;73.9&quot;,&quot;64.4&quot;,&quot;84.9&quot;,&quot;86.4&quot;,&quot;79.1&quot;,&quot;83.5&quot;,&quot;81.3&quot;,&quot;83.9&quot;,&quot;78.1&quot;,&quot;NA&quot;,&quot;NA&quot;,&quot;79&quot;,&quot;71.1&quot;,&quot;71.4&quot;,&quot;82.9&quot;,&quot;80.1&quot;,&quot;74.6&quot;],&quot;SNP&quot;:[&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GG&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;GA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;,&quot;AA&quot;]},&quot;y&quot;:{&quot;smps&quot;:[&quot;Tcell_GG&quot;,&quot;Exp_GG&quot;,&quot;Tcell_GA&quot;,&quot;Exp_GA&quot;,&quot;Tcell_AA&quot;,&quot;Exp_AA&quot;],&quot;vars&quot;:[&quot;US.1483787&quot;,&quot;US.1425956&quot;,&quot;US.1488938&quot;,&quot;US.1488934&quot;,&quot;US.1488892&quot;,&quot;US.1488000&quot;,&quot;US.1485977&quot;,&quot;US.1485952&quot;,&quot;US.1485119&quot;,&quot;US.1485117&quot;,&quot;US.1426065&quot;,&quot;US.1485116&quot;,&quot;US.1426072&quot;,&quot;US.1485111&quot;,&quot;US.1429566&quot;,&quot;US.1464027&quot;,&quot;US.1485110&quot;,&quot;US.1485107&quot;,&quot;US.1485106&quot;,&quot;US.1485104&quot;,&quot;US.1485103&quot;,&quot;US.1464456&quot;,&quot;US.1464457&quot;,&quot;US.1464465&quot;,&quot;US.1485098&quot;,&quot;US.1485093&quot;,&quot;US.1485089&quot;,&quot;US.1485087&quot;,&quot;US.1464471&quot;,&quot;US.1485086&quot;,&quot;US.1485083&quot;,&quot;US.1485080&quot;,&quot;US.1485074&quot;,&quot;US.1464484&quot;,&quot;US.1485073&quot;,&quot;US.1464488&quot;,&quot;US.1485072&quot;,&quot;US.1464493&quot;,&quot;US.1464495&quot;,&quot;US.1485063&quot;,&quot;US.1464503&quot;,&quot;US.1485058&quot;,&quot;US.1485057&quot;,&quot;US.1464511&quot;,&quot;US.1464512&quot;,&quot;US.1485048&quot;,&quot;US.1464517&quot;,&quot;US.1464519&quot;,&quot;US.1464521&quot;,&quot;US.1485046&quot;,&quot;US.1464523&quot;,&quot;US.1464525&quot;,&quot;US.1464527&quot;,&quot;US.1485044&quot;,&quot;US.1466656&quot;,&quot;US.1485042&quot;,&quot;US.1466660&quot;,&quot;US.1485033&quot;,&quot;US.1485023&quot;,&quot;US.1485022&quot;,&quot;US.1484808&quot;,&quot;US.1484807&quot;,&quot;US.1484781&quot;,&quot;US.1484779&quot;,&quot;US.1484741&quot;,&quot;US.1484380&quot;,&quot;US.1484376&quot;,&quot;US.1484360&quot;,&quot;US.1467283&quot;,&quot;US.1467284&quot;,&quot;US.1484355&quot;,&quot;US.1484351&quot;,&quot;US.1484350&quot;,&quot;US.1467291&quot;,&quot;US.1484344&quot;,&quot;US.1467293&quot;,&quot;US.1467295&quot;,&quot;US.1467300&quot;,&quot;US.1484343&quot;,&quot;US.1467304&quot;,&quot;US.1467305&quot;,&quot;US.1467307&quot;,&quot;US.1467317&quot;,&quot;US.1484337&quot;,&quot;US.1484335&quot;,&quot;US.1484321&quot;,&quot;US.1467327&quot;,&quot;US.1484291&quot;,&quot;US.1484246&quot;,&quot;US.1484030&quot;,&quot;US.1468907&quot;,&quot;US.1484018&quot;,&quot;US.1484010&quot;,&quot;US.1468934&quot;,&quot;US.1468938&quot;,&quot;US.1484005&quot;,&quot;US.1468951&quot;,&quot;US.1484000&quot;,&quot;US.1483994&quot;,&quot;US.1483991&quot;,&quot;US.1483989&quot;,&quot;US.1483987&quot;,&quot;US.1483986&quot;,&quot;US.1483982&quot;,&quot;US.1483466&quot;,&quot;US.1483467&quot;,&quot;US.1483468&quot;,&quot;US.1483978&quot;,&quot;US.1483473&quot;,&quot;US.1483474&quot;,&quot;US.1483475&quot;,&quot;US.1483479&quot;,&quot;US.1483481&quot;,&quot;US.1483977&quot;,&quot;US.1483976&quot;,&quot;US.1483484&quot;,&quot;US.1483967&quot;,&quot;US.1483966&quot;,&quot;US.1483965&quot;,&quot;US.1483854&quot;,&quot;US.1483850&quot;,&quot;US.1483496&quot;,&quot;US.1483498&quot;,&quot;US.1483840&quot;,&quot;US.1483502&quot;,&quot;US.1483838&quot;,&quot;US.1483505&quot;,&quot;US.1483835&quot;,&quot;US.1483510&quot;,&quot;US.1483831&quot;,&quot;US.1483828&quot;,&quot;US.1483514&quot;,&quot;US.1483517&quot;,&quot;US.1483822&quot;,&quot;US.1483523&quot;,&quot;US.1483524&quot;,&quot;US.1483525&quot;,&quot;US.1483526&quot;,&quot;US.1483820&quot;,&quot;US.1483817&quot;,&quot;US.1483530&quot;,&quot;US.1483531&quot;,&quot;US.1483816&quot;,&quot;US.1483807&quot;,&quot;US.1483794&quot;,&quot;US.1483538&quot;,&quot;US.1426006&quot;,&quot;US.1483540&quot;,&quot;US.1483541&quot;,&quot;US.1483543&quot;,&quot;US.1483544&quot;,&quot;US.1483545&quot;,&quot;US.1483784&quot;,&quot;US.1483547&quot;,&quot;US.1483551&quot;,&quot;US.1483782&quot;,&quot;US.1483592&quot;,&quot;US.1483771&quot;,&quot;US.1483716&quot;,&quot;US.1483768&quot;,&quot;US.1483734&quot;,&quot;US.1483762&quot;,&quot;US.1483739&quot;,&quot;US.1483761&quot;,&quot;US.1483742&quot;,&quot;US.1483745&quot;,&quot;US.1483758&quot;,&quot;US.1483749&quot;,&quot;US.1484330&quot;,&quot;US.1491670&quot;,&quot;US.1483754&quot;,&quot;US.1483748&quot;,&quot;US.1483760&quot;,&quot;US.1489579&quot;,&quot;US.1488945&quot;,&quot;US.1488933&quot;,&quot;US.1483767&quot;,&quot;US.1488911&quot;,&quot;US.1426029&quot;,&quot;US.1483773&quot;,&quot;US.1488889&quot;,&quot;US.1488865&quot;,&quot;US.1488036&quot;,&quot;US.1483780&quot;,&quot;US.1483781&quot;,&quot;US.1483569&quot;,&quot;US.1483546&quot;,&quot;US.1483785&quot;,&quot;US.1426031&quot;,&quot;US.1483539&quot;,&quot;US.1483788&quot;,&quot;US.1426039&quot;,&quot;US.1426055&quot;,&quot;US.1485108&quot;,&quot;US.1483793&quot;,&quot;US.1483536&quot;,&quot;US.1464119&quot;,&quot;US.1464442&quot;,&quot;US.1485105&quot;,&quot;US.1464455&quot;,&quot;US.1464466&quot;,&quot;US.1485095&quot;,&quot;US.1464467&quot;,&quot;US.1483810&quot;,&quot;US.1483811&quot;,&quot;US.1464470&quot;,&quot;US.1483532&quot;,&quot;US.1483529&quot;,&quot;US.1483818&quot;,&quot;US.1483528&quot;,&quot;US.1483522&quot;,&quot;US.1464472&quot;,&quot;US.1485085&quot;,&quot;US.1483513&quot;,&quot;US.1464481&quot;,&quot;US.1483512&quot;,&quot;US.1485075&quot;,&quot;US.1483509&quot;,&quot;US.1483503&quot;,&quot;US.1483499&quot;,&quot;US.1464483&quot;,&quot;US.1485071&quot;,&quot;US.1483494&quot;,&quot;US.1483851&quot;,&quot;US.1483492&quot;,&quot;US.1485066&quot;,&quot;US.1485061&quot;,&quot;US.1464506&quot;,&quot;US.1485054&quot;,&quot;US.1483964&quot;,&quot;US.1483491&quot;,&quot;US.1483488&quot;,&quot;US.1483486&quot;,&quot;US.1483483&quot;,&quot;US.1483482&quot;,&quot;US.1483469&quot;,&quot;US.1483979&quot;,&quot;US.1483980&quot;,&quot;US.1464513&quot;,&quot;US.1483462&quot;,&quot;US.1464522&quot;,&quot;US.1485045&quot;,&quot;US.1483458&quot;,&quot;US.1485035&quot;,&quot;US.1485026&quot;,&quot;US.1468985&quot;,&quot;US.1467255&quot;,&quot;US.1483993&quot;,&quot;US.1467261&quot;,&quot;US.1483996&quot;,&quot;US.1484815&quot;,&quot;US.1467263&quot;,&quot;US.1484001&quot;,&quot;US.1484003&quot;,&quot;US.1468942&quot;,&quot;US.1467264&quot;,&quot;US.1467266&quot;,&quot;US.1484756&quot;,&quot;US.1484013&quot;,&quot;US.1484733&quot;,&quot;US.1484403&quot;,&quot;US.1468911&quot;,&quot;US.1484019&quot;,&quot;US.1484020&quot;,&quot;US.1467275&quot;,&quot;US.1484365&quot;,&quot;US.1484357&quot;,&quot;US.1484237&quot;,&quot;US.1467353&quot;,&quot;US.1484273&quot;,&quot;US.1467303&quot;,&quot;US.1467326&quot;,&quot;US.1484329&quot;,&quot;US.1484340&quot;,&quot;US.1485064&quot;,&quot;US.1491565&quot;,&quot;US.1484759&quot;,&quot;US.1483741&quot;,&quot;US.1483736&quot;,&quot;US.1426016&quot;,&quot;US.1467341&quot;,&quot;US.1467292&quot;,&quot;US.1483717&quot;,&quot;US.1488909&quot;,&quot;US.1467286&quot;,&quot;US.1483777&quot;,&quot;US.1484358&quot;,&quot;US.1483778&quot;,&quot;US.1483786&quot;,&quot;US.1426032&quot;,&quot;US.1467274&quot;,&quot;US.1484016&quot;,&quot;US.1485120&quot;,&quot;US.1484014&quot;,&quot;US.1484740&quot;,&quot;US.1426040&quot;,&quot;US.1426068&quot;,&quot;US.1464036&quot;,&quot;US.1483750&quot;,&quot;US.1483797&quot;,&quot;US.1484780&quot;,&quot;US.1484009&quot;,&quot;US.1483798&quot;,&quot;US.1464446&quot;,&quot;US.1468955&quot;,&quot;US.1484812&quot;,&quot;US.1483998&quot;,&quot;US.1483806&quot;,&quot;US.1483534&quot;,&quot;US.1483809&quot;,&quot;US.1466728&quot;,&quot;US.1483988&quot;,&quot;US.1483813&quot;,&quot;US.1485076&quot;,&quot;US.1466653&quot;,&quot;US.1483847&quot;,&quot;US.1483983&quot;,&quot;US.1464486&quot;,&quot;US.1485053&quot;,&quot;US.1483962&quot;,&quot;US.1485056&quot;,&quot;US.1464510&quot;,&quot;US.1483848&quot;,&quot;US.1485059&quot;,&quot;US.1483957&quot;,&quot;US.1464496&quot;,&quot;US.1467320&quot;,&quot;US.1483855&quot;,&quot;US.1468933&quot;,&quot;US.1484334&quot;,&quot;US.1483981&quot;,&quot;US.1483460&quot;,&quot;US.1483834&quot;,&quot;US.1466659&quot;,&quot;US.1485077&quot;,&quot;US.1483830&quot;,&quot;US.1484336&quot;,&quot;US.1483825&quot;,&quot;US.1467318&quot;,&quot;US.1485036&quot;,&quot;US.1484338&quot;,&quot;US.1482121&quot;,&quot;US.1426024&quot;,&quot;US.1467290&quot;,&quot;US.1467288&quot;,&quot;US.1483622&quot;,&quot;US.1488885&quot;,&quot;US.1488851&quot;,&quot;US.1484006&quot;,&quot;US.1484804&quot;,&quot;US.1484023&quot;,&quot;US.1483795&quot;,&quot;US.1483792&quot;,&quot;US.1464489&quot;,&quot;US.1429051&quot;,&quot;US.1486520&quot;,&quot;US.1484746&quot;,&quot;US.1483791&quot;,&quot;US.1484021&quot;,&quot;US.1484728&quot;,&quot;US.1483790&quot;,&quot;US.1485097&quot;,&quot;US.1467272&quot;,&quot;US.1467270&quot;,&quot;US.1464478&quot;,&quot;US.1483804&quot;,&quot;US.1468904&quot;,&quot;US.1485099&quot;,&quot;US.1483776&quot;,&quot;US.1468977&quot;,&quot;US.1485114&quot;,&quot;US.1485096&quot;,&quot;US.1483824&quot;,&quot;US.1483992&quot;,&quot;US.1464468&quot;,&quot;US.1483959&quot;,&quot;US.1483752&quot;,&quot;US.1483766&quot;,&quot;US.1467277&quot;],&quot;data&quot;:[[85.2,2.958,null,null,null,null],[88.3,3.213,null,null,null,null],[null,3.119,null,null,null,null],[91.3,3.13,null,null,null,null],[81.2,3.066,null,null,null,null],[75.2,3.045,null,null,null,null],[null,3.001,null,null,null,null],[71.3,2.994,null,null,null,null],[73.6,3.057,null,null,null,null],[85,3.056,null,null,null,null],[65.2,2.823,null,null,null,null],[82.3,3.165,null,null,null,null],[70.4,3.084,null,null,null,null],[80.6,2.957,null,null,null,null],[70.9,2.991,null,null,null,null],[84.3,2.905,null,null,null,null],[70.1,2.776,null,null,null,null],[null,3.085,null,null,null,null],[78.9,3.027,null,null,null,null],[null,2.95,null,null,null,null],[68.1,3.237,null,null,null,null],[null,3.155,null,null,null,null],[null,3.143,null,null,null,null],[85.4,3.17,null,null,null,null],[70.2,3.222,null,null,null,null],[78.1,3.126,null,null,null,null],[71.8,2.995,null,null,null,null],[63.1,2.819,null,null,null,null],[85.9,3.113,null,null,null,null],[76.4,2.783,null,null,null,null],[null,2.799,null,null,null,null],[72.1,2.975,null,null,null,null],[74,2.711,null,null,null,null],[71.6,3.059,null,null,null,null],[75.3,2.941,null,null,null,null],[77.6,3.083,null,null,null,null],[79.8,2.726,null,null,null,null],[75,2.972,null,null,null,null],[70.8,3.126,null,null,null,null],[60.1,3.018,null,null,null,null],[81,3.031,null,null,null,null],[84.9,3.07,null,null,null,null],[82.7,3.03,null,null,null,null],[69.2,3.24,null,null,null,null],[82,3.059,null,null,null,null],[72.5,2.963,null,null,null,null],[78.1,3.13,null,null,null,null],[87.8,3.17,null,null,null,null],[82.6,2.869,null,null,null,null],[null,2.992,null,null,null,null],[56.8,3.444,null,null,null,null],[74.1,3.174,null,null,null,null],[67.1,3.351,null,null,null,null],[89.5,3.104,null,null,null,null],[73.9,2.915,null,null,null,null],[87.7,3.061,null,null,null,null],[63.5,3.112,null,null,null,null],[57.1,3.107,null,null,null,null],[59.1,3.089,null,null,null,null],[83.2,3.166,null,null,null,null],[74.2,3.086,null,null,null,null],[null,4.102,null,null,null,null],[67.3,3.258,null,null,null,null],[79.9,3.124,null,null,null,null],[77,3.583,null,null,null,null],[61.9,3.093,null,null,null,null],[null,2.762,null,null,null,null],[82.2,2.913,null,null,null,null],[70.7,2.896,null,null,null,null],[57.8,3.068,null,null,null,null],[77.6,3.081,null,null,null,null],[81.6,3.152,null,null,null,null],[89.1,3.123,null,null,null,null],[70.1,3.055,null,null,null,null],[75,2.906,null,null,null,null],[73.3,3.341,null,null,null,null],[68.5,3.251,null,null,null,null],[67.8,3.127,null,null,null,null],[64.5,2.843,null,null,null,null],[77.4,3.391,null,null,null,null],[71.5,3.26,null,null,null,null],[79.7,2.874,null,null,null,null],[65.4,2.75,null,null,null,null],[83.2,3.018,null,null,null,null],[75.6,3.203,null,null,null,null],[90.9,3.138,null,null,null,null],[81.3,3.11,null,null,null,null],[68.4,3.182,null,null,null,null],[81.9,3.21,null,null,null,null],[75,2.878,null,null,null,null],[null,2.994,null,null,null,null],[76.2,2.814,null,null,null,null],[72.9,3.056,null,null,null,null],[43.7,2.896,null,null,null,null],[71.4,2.892,null,null,null,null],[65.3,2.985,null,null,null,null],[87.5,3.21,null,null,null,null],[77.2,2.816,null,null,null,null],[53,2.831,null,null,null,null],[61.5,3.065,null,null,null,null],[64.6,2.993,null,null,null,null],[null,2.896,null,null,null,null],[76.1,3.142,null,null,null,null],[65.2,2.97,null,null,null,null],[74.5,3.017,null,null,null,null],[65.9,2.942,null,null,null,null],[83.4,3.222,null,null,null,null],[68.2,3.083,null,null,null,null],[89.9,3.068,null,null,null,null],[69.8,3.15,null,null,null,null],[41.1,2.834,null,null,null,null],[45,3.117,null,null,null,null],[86.5,3.238,null,null,null,null],[80.8,3.016,null,null,null,null],[78.3,2.945,null,null,null,null],[77.8,3,null,null,null,null],[66.3,3.205,null,null,null,null],[81.4,2.726,null,null,null,null],[92.3,3.034,null,null,null,null],[83.4,3.023,null,null,null,null],[83.2,2.905,null,null,null,null],[76.5,2.99,null,null,null,null],[84.6,3.185,null,null,null,null],[73.7,2.987,null,null,null,null],[81.3,3.266,null,null,null,null],[81.5,2.739,null,null,null,null],[77.3,2.893,null,null,null,null],[76.9,3.118,null,null,null,null],[70.5,3.28,null,null,null,null],[87.5,3.216,null,null,null,null],[85.5,2.827,null,null,null,null],[79.8,3.026,null,null,null,null],[82.2,3.048,null,null,null,null],[86.8,2.967,null,null,null,null],[null,3.05,null,null,null,null],[88.5,3.187,null,null,null,null],[67.4,3.061,null,null,null,null],[87,3.111,null,null,null,null],[42.6,3.23,null,null,null,null],[69.8,3.098,null,null,null,null],[null,3.302,null,null,null,null],[80.1,3.066,null,null,null,null],[null,2.878,null,null,null,null],[77.5,3.036,null,null,null,null],[null,2.948,null,null,null,null],[null,3.21,null,null,null,null],[80.1,2.946,null,null,null,null],[70.9,3.361,null,null,null,null],[34.5,2.594,null,null,null,null],[null,2.925,null,null,null,null],[65.5,3.251,null,null,null,null],[79.1,2.874,null,null,null,null],[77.8,2.891,null,null,null,null],[78.9,2.775,null,null,null,null],[67.7,2.675,null,null,null,null],[73.5,3.141,null,null,null,null],[69.7,2.89,null,null,null,null],[53.4,3.003,null,null,null,null],[85,2.956,null,null,null,null],[89.3,2.955,null,null,null,null],[74.6,3.182,null,null,null,null],[68.7,2.809,null,null,null,null],[null,2.76,null,null,null,null],[79.2,3.055,null,null,null,null],[57,2.953,null,null,null,null],[84.5,2.748,null,null,null,null],[86.1,3.007,null,null,null,null],[79.6,3.026,null,null,null,null],[54.5,3.192,null,null,null,null],[63.5,2.952,null,null,null,null],[71.9,3.28,null,null,null,null],[88.3,3.351,null,null,null,null],[76.6,2.957,null,null,null,null],[74.2,2.984,null,null,null,null],[63.8,3.162,null,null,null,null],[null,3.186,null,null,null,null],[77.3,2.896,null,null,null,null],[68.5,3.44,null,null,null,null],[76.1,3.191,null,null,null,null],[74.8,2.912,null,null,null,null],[66.3,2.956,null,null,null,null],[84,3.045,null,null,null,null],[76.6,2.792,null,null,null,null],[70.7,3.03,null,null,null,null],[51.4,2.944,null,null,null,null],[76.1,2.952,null,null,null,null],[73.2,3.001,null,null,null,null],[83.5,3.164,null,null,null,null],[91.1,2.877,null,null,null,null],[71.1,2.921,null,null,null,null],[71.3,3.104,null,null,null,null],[85.7,2.86,null,null,null,null],[65.7,3.133,null,null,null,null],[null,2.981,null,null,null,null],[69,2.872,null,null,null,null],[81.4,3.196,null,null,null,null],[74.3,2.897,null,null,null,null],[75.2,3.121,null,null,null,null],[null,3.117,null,null,null,null],[89.4,2.969,null,null,null,null],[73.3,3.141,null,null,null,null],[56,2.986,null,null,null,null],[67.8,3.182,null,null,null,null],[69.9,3.081,null,null,null,null],[73.4,2.925,null,null,null,null],[77.7,2.812,null,null,null,null],[78.9,3.046,null,null,null,null],[76.5,2.876,null,null,null,null],[79,3.165,null,null,null,null],[69.7,2.703,null,null,null,null],[78.2,3.077,null,null,null,null],[null,3.006,null,null,null,null],[51.9,3.146,null,null,null,null],[83.1,2.941,null,null,null,null],[76.2,3.207,null,null,null,null],[74.7,2.817,null,null,null,null],[51.5,3.002,null,null,null,null],[80,3.143,null,null,null,null],[null,3.143,null,null,null,null],[82.1,2.942,null,null,null,null],[81.2,2.978,null,null,null,null],[71.6,3.005,null,null,null,null],[null,2.933,null,null,null,null],[null,2.849,null,null,null,null],[52.9,3.06,null,null,null,null],[83.2,2.74,null,null,null,null],[null,3.122,null,null,null,null],[70,2.997,null,null,null,null],[null,2.967,null,null,null,null],[81.4,3.09,null,null,null,null],[78.1,2.82,null,null,null,null],[60,3.177,null,null,null,null],[84.9,3.191,null,null,null,null],[72,3.044,null,null,null,null],[83.5,2.915,null,null,null,null],[77.5,3.406,null,null,null,null],[70,3.014,null,null,null,null],[83.5,3.106,null,null,null,null],[null,2.957,null,null,null,null],[null,3.03,null,null,null,null],[76.1,3.156,null,null,null,null],[85.1,2.995,null,null,null,null],[76.2,2.921,null,null,null,null],[79.2,2.839,null,null,null,null],[85.7,2.894,null,null,null,null],[null,3.28,null,null,null,null],[55.1,3.009,null,null,null,null],[63.1,2.961,null,null,null,null],[82.5,3.068,null,null,null,null],[78.6,2.947,null,null,null,null],[63.6,2.936,null,null,null,null],[82.6,2.909,null,null,null,null],[78.8,3.188,null,null,null,null],[null,2.957,null,null,null,null],[72.6,2.639,null,null,null,null],[null,3.23,null,null,null,null],[70.9,3.193,null,null,null,null],[65.5,3.088,null,null,null,null],[87.2,2.939,null,null,null,null],[49.5,3.137,null,null,null,null],[53,3.136,null,null,null,null],[82.8,3.117,null,null,null,null],[45.8,3.043,null,null,null,null],[78,3.153,null,null,null,null],[76.8,3.435,null,null,null,null],[76,3.064,null,null,null,null],[84.8,3.286,null,null,null,null],[77,2.893,null,null,null,null],[66.7,3.007,null,null,null,null],[82,3.321,null,null,null,null],[74.7,3.124,null,null,null,null],[77,2.909,null,null,null,null],[null,2.873,null,null,null,null],[47.2,3.086,null,null,null,null],[79.4,3.063,null,null,null,null],[null,3.147,null,null,null,null],[66.8,3.209,null,null,null,null],[null,null,79.1,4.141,null,null],[null,null,37.9,4.228,null,null],[null,null,63,4.562,null,null],[null,null,77.9,4.379,null,null],[null,null,null,3.091,null,null],[null,null,67.2,4.155,null,null],[null,null,64.6,4.304,null,null],[null,null,78.3,4.252,null,null],[null,null,64.5,4.306,null,null],[null,null,82.9,4.198,null,null],[null,null,64.2,4.439,null,null],[null,null,null,4.168,null,null],[null,null,67.9,4.107,null,null],[null,null,73.9,4.366,null,null],[null,null,82.4,4.365,null,null],[null,null,83,4.371,null,null],[null,null,83.5,4.352,null,null],[null,null,82.7,4.61,null,null],[null,null,78.9,4.24,null,null],[null,null,66.3,4.418,null,null],[null,null,50,4.219,null,null],[null,null,61.8,4.256,null,null],[null,null,51.3,4.334,null,null],[null,null,63.9,4.317,null,null],[null,null,60.3,4.286,null,null],[null,null,75.7,4.189,null,null],[null,null,null,4.267,null,null],[null,null,55.1,4.347,null,null],[null,null,57.4,4.039,null,null],[null,null,88.6,4.54,null,null],[null,null,84.9,4.275,null,null],[null,null,70.6,4.292,null,null],[null,null,65,4.242,null,null],[null,null,null,4.539,null,null],[null,null,null,4.392,null,null],[null,null,71,4.371,null,null],[null,null,null,4.174,null,null],[null,null,82.6,4.236,null,null],[null,null,69.7,4.347,null,null],[null,null,51.9,4.577,null,null],[null,null,67,4.054,null,null],[null,null,83.6,4.309,null,null],[null,null,83.9,4.32,null,null],[null,null,null,4.152,null,null],[null,null,77.1,4.565,null,null],[null,null,null,4.269,null,null],[null,null,78.6,4.296,null,null],[null,null,74.7,4.579,null,null],[null,null,70.5,4.239,null,null],[null,null,58.5,4.282,null,null],[null,null,71,4.195,null,null],[null,null,73.1,4.207,null,null],[null,null,75.4,3.998,null,null],[null,null,68,4.325,null,null],[null,null,null,4.319,null,null],[null,null,null,3.93,null,null],[null,null,72.9,4.137,null,null],[null,null,76.1,4.324,null,null],[null,null,88.2,4.321,null,null],[null,null,42.5,4.174,null,null],[null,null,null,4.287,null,null],[null,null,72.5,4.29,null,null],[null,null,null,4.194,null,null],[null,null,70.8,4.217,null,null],[null,null,null,4.278,null,null],[null,null,null,4.009,null,null],[null,null,83.7,4.192,null,null],[null,null,63.7,3.911,null,null],[null,null,62.4,4.164,null,null],[null,null,71.7,4.045,null,null],[null,null,null,4.181,null,null],[null,null,null,3.246,null,null],[null,null,84.6,4.252,null,null],[null,null,null,3.159,null,null],[null,null,68.9,4.365,null,null],[null,null,null,4.413,null,null],[null,null,null,4.451,null,null],[null,null,null,4.356,null,null],[null,null,82.3,4.126,null,null],[null,null,80.6,4.431,null,null],[null,null,59.1,4.447,null,null],[null,null,61.7,4.338,null,null],[null,null,null,4.2,null,null],[null,null,73.4,4.471,null,null],[null,null,null,null,null,5.067],[null,null,null,null,73.9,4.913],[null,null,null,null,64.4,5.009],[null,null,null,null,84.9,4.965],[null,null,null,null,86.4,5.016],[null,null,null,null,79.1,4.982],[null,null,null,null,83.5,5.299],[null,null,null,null,81.3,4.971],[null,null,null,null,83.9,4.801],[null,null,null,null,78.1,4.853],[null,null,null,null,null,4.895],[null,null,null,null,null,4.945],[null,null,null,null,79,5.014],[null,null,null,null,71.1,5.095],[null,null,null,null,71.4,4.715],[null,null,null,null,82.9,4.986],[null,null,null,null,80.1,4.942],[null,null,null,null,74.6,4.922]]}},&quot;config&quot;:{&quot;axisTitleFontStyle&quot;:&quot;italic&quot;,&quot;axisTickScaleFontFactor&quot;:1.5,&quot;axisTitleScaleFontFactor&quot;:2,&quot;smpLabelScaleFontFactor&quot;:1.5,&quot;smpTitleScaleFontFactor&quot;:2,&quot;decorationScaleFontFactor&quot;:2.4,&quot;showLegend&quot;:false,&quot;xAxisTitle&quot;:&quot;T cell (% of lymphocytes)&quot;,&quot;yAxisTitle&quot;:&quot;PILRB log2(CPM+1)&quot;,&quot;xAxis2Show&quot;:false,&quot;graphType&quot;:&quot;Scatter2D&quot;,&quot;canvasBox&quot;:true,&quot;printType&quot;:&quot;window&quot;,&quot;xAxis&quot;:[&quot;Tcell_GG&quot;,&quot;Tcell_GA&quot;,&quot;Tcell_AA&quot;],&quot;xAxisExact&quot;:true,&quot;yAxis&quot;:[&quot;Exp_GG&quot;,&quot;Exp_GA&quot;,&quot;Exp_AA&quot;],&quot;yAxisExact&quot;:true,&quot;title&quot;:&quot;rs11761253&quot;},&quot;events&quot;:false,&quot;info&quot;:false,&quot;afterRender&quot;:[[&quot;addRegressionLine&quot;,[]],[&quot;setDimensions&quot;,[480,480]]],&quot;client&quot;:&quot;MTQ5MTEzNDUxMzAyODo6Mjk0ODgyNjIxMTY2ODUxOjoxNS4yOjpodHRwOi8vbmV4dGdlbi5wZml6ZXIuY29tL25ncy1kYXRhMy9wcm9qZWN0cy9MdXB1c19lUVRML1RjZWxsLmh0bWwj&quot;,&quot;clientIP&quot;:{&quot;ip&quot;:&quot;148.168.40.121&quot;,&quot;country_code&quot;:&quot;US&quot;,&quot;country_name&quot;:&quot;United States&quot;,&quot;region_code&quot;:&quot;CT&quot;,&quot;region_name&quot;:&quot;Connecticut&quot;,&quot;city&quot;:&quot;&quot;,&quot;zip_code&quot;:&quot;&quot;,&quot;time_zone&quot;:&quot;America/New_York&quot;,&quot;latitude&quot;:41.5382,&quot;longitude&quot;:-72.807,&quot;metro_code&quot;:0}}">
+<defs>
+<pattern id="LxFokWHLmdPE" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJUlEQVQYV2NkYGD4z8DAwMiABGAcFAlkFXAJFG0wo9AFQSb/BwAAogUFn2qCWQAAAABJRU5ErkJggg=="/>
+</pattern>
+<pattern id="DImWpJWntGgB" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJElEQVQYV2NkwAT/GdHE/jMwMDAiC4IFQIpggnABmCCKAEgQAABOBQUaykC8AAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="qGifKqzevwJE" width="3" height="3">
+<image width="3" height="3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAE0lEQVQYV2NkgID/DAwMjIw4OQA2aQMET3d1/AAAAABJRU5ErkJggg=="/>
+</pattern>
+<pattern id="vVXLADwywiiI" width="3" height="3">
+<image width="3" height="3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAFUlEQVQYV2NkQAKMDAwM/2F8EAcOABZfAQMMApHkAAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="mzAOBqmJNaHX" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAL0lEQVQYV2NkgAANBgYGFwYGhj0MDAw3GKEC16GSIEoTJNjAwMBQjyTYiFMlhpkAhp8H1vIn//0AAAAASUVORK5CYII="/>
+</pattern>
+<pattern id="hJaaZWUMyqDC" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAIklEQVQYV2NkYGD4z8DAwMiAAP9hHJgEmEZRAdOBUyWGmQDMQQkE2zMHyQAAAABJRU5ErkJggg=="/>
+</pattern>
+<pattern id="GoEUIJExvEHp" width="3" height="3">
+<image width="3" height="3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAGUlEQVQYV2NkgID/DAwMjIxQBlgExIHLAAA6VwMDiVmhcwAAAABJRU5ErkJggg=="/>
+</pattern>
+<pattern id="obmhSxcBpasn" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAALUlEQVQYV2NkYGBwgGIGGGBkYGBogAoegArawwRBfJAkCNTjFbRnYGCAaXcAAD/lBwIJ2NmIAAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="WqBCIGCLXpOA" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAALElEQVQYV2NkwAIYoWK+DAwM1QwMDK0MDAybYYInGBgYLBgYGMA0XpUoJgMAJQMGBnrDFPkAAAAASUVORK5CYII="/>
+</pattern>
+<pattern id="SPqqlIyLiFsh" width="7" height="7">
+<image width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAJElEQVQYV2NkwAMY0eT+MzAwwMWIkgTpQAeMROmE6cJrJ4rRAP/iBQhfDmkCAAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="tHeoqsMSNVag" width="7" height="7">
+<image width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAGElEQVQYV2NkwAMYKZb8j8UERsqNxeouAG/jAQjENtQFAAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="yEZzPNeknTMa" width="7" height="7">
+<image width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAGUlEQVQYV2NkwAMY0eT+MzAwwMUGgySK+wD38gUIzGAhhAAAAABJRU5ErkJggg=="/>
+</pattern>
+<pattern id="wqnqVsDniPCy" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAOklEQVQYV02LQREAIAzDMmVgAUk4wgFI4wLsjr7WLA1uCjCABqx4cH6wCrU6UAGfXXgOZykILVqZuQEbIQrFbNal+QAAAABJRU5ErkJggg=="/>
+</pattern>
+<pattern id="JwAIetIRgdJu" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAOUlEQVQYV03MsQ0AIRDEwKEy6Ohb+M6AykCHDolkA6/lgoGFHxNKDFrCc16Yn++FNc2QjtkzE83o2xvLCXRG+jN6AAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="PzribJMGzGkn" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJ0lEQVQYV2NkYGD4z4AAjCAmiIAJggWQBeECIEXIHJAisC4UFTDtAD9NBgM6TGMUAAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="GNkfITTEdHkM" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJUlEQVQYV2NkQID/MCYjkiCICZYACYIYyJL/YYIwBWCNyIJwCQA+zwYDgsqkUgAAAABJRU5ErkJggg=="/>
+</pattern>
+<pattern id="XlfzTbLheuAt" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAARElEQVQYV03MQQ2AMBSD4W8euGJmHoYRdGCEeZgZrniAvG0k9NT+aZsMnVhwo6QJLux4UAM25Al6/poF4Q+sYfrk97m9oKMNF06Og9YAAAAASUVORK5CYII="/>
+</pattern>
+<pattern id="yHXlUpvstsfL" width="5" height="5">
+<image width="5" height="5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAM0lEQVQYV13KwQ0AIAjF0LK5TqZOpqkBD3Ihv3kBDGABjbzI8YLdqJxA/6VbvUsW8N94AMKICAQ2oJR2AAAAAElFTkSuQmCC"/>
+</pattern>
+<pattern id="FXsavufXHNvP" width="5" height="3">
+<image width="5" height="3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAYAAABbNsX4AAAAKUlEQVQYV2NkYGA4w8DAcJaBgSGdAQoYoXQaAwPDTKjELJggTBFIwhgAqq0E0Br068gAAAAASUVORK5CYII="/>
+</pattern>
+<pattern id="mPpQmnSMuBdx" width="5" height="3">
+<image width="5" height="3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAYAAABbNsX4AAAAKUlEQVQYV2NkQAUzGRgYjBmhYmkMDAwggXQGBoZZIMEzDAwMZ6ECYDUAeCUE0JyDmQcAAAAASUVORK5CYII="/>
+</pattern>
+<clipPath id="ngMBlldtEkTr">
+<path fill="none" stroke="none" d=" M 39.473828125 34 L 454.6 34 L 454.6 318.8 L 39.473828125 318.8 L 39.473828125 34 Z"/>
+</clipPath>
+</defs>
+<g>
+<g transform="translate(231,231)">
+<g transform="translate(-231,-231)"/>
+</g>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 34.5 L 453.6 34.5" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 318.5 L 453.6 318.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 304.5 L 453.6 304.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 289.5 L 453.6 289.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 275.5 L 453.6 275.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 261.5 L 453.6 261.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 247.5 L 453.6 247.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 233.5 L 453.6 233.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 218.5 L 453.6 218.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 204.5 L 453.6 204.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 190.5 L 453.6 190.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 176.5 L 453.6 176.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 162.5 L 453.6 162.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 148.5 L 453.6 148.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 133.5 L 453.6 133.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 119.5 L 453.6 119.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 105.5 L 453.6 105.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 91.5 L 453.6 91.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 77.5 L 453.6 77.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 62.5 L 453.6 62.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 48.5 L 453.6 48.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 34.5 L 453.6 34.5" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 36.673828125 318.5 L 453.6 318.5" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 36.673828125 247.5 L 453.6 247.5" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 36.673828125 176.5 L 453.6 176.5" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 36.673828125 105.5 L 453.6 105.5" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 36.673828125 34.5 L 453.6 34.5" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.473828125 318.5 L 453.6 318.5" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.5 34 L 39.5 317.8" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.5 34 L 39.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 60.5 34 L 60.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 81.5 34 L 81.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 102.5 34 L 102.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 122.5 34 L 122.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 143.5 34 L 143.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 164.5 34 L 164.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 184.5 34 L 184.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 205.5 34 L 205.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 226.5 34 L 226.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 247.5 34 L 247.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 267.5 34 L 267.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 288.5 34 L 288.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 309.5 34 L 309.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 329.5 34 L 329.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 350.5 34 L 350.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 371.5 34 L 371.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 391.5 34 L 391.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 412.5 34 L 412.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 433.5 34 L 433.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 454.5 34 L 454.5 317.8" stroke-miterlimit="10" stroke-width="0.3333333333333333"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 39.5 34 L 39.5 320.6" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 143.5 34 L 143.5 320.6" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 247.5 34 L 247.5 320.6" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 350.5 34 L 350.5 320.6" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 454.5 34 L 454.5 320.6" stroke-miterlimit="10"/>
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M 454.5 34 L 454.5 317.8" stroke-miterlimit="10"/>
+<g transform="translate(13.6,175.9) rotate(-90,0,0)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="16px" font-style="italic" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+PILRB log2(CPM+1)</text>
+</g>
+<g transform="translate(33.873828124999996,317.8)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+2</text>
+</g>
+<g transform="translate(33.873828124999996,246.85000000000002)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+3</text>
+</g>
+<g transform="translate(33.873828124999996,175.9)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+4</text>
+</g>
+<g transform="translate(33.873828124999996,104.94999999999999)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+5</text>
+</g>
+<g transform="translate(33.873828124999996,34)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+6</text>
+</g>
+<g transform="translate(246.5369140625,349.00000000000006)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="16px" font-style="italic" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+T cell (% of lymphocytes)</text>
+</g>
+<g transform="translate(39.473828125,329.40000000000003)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+20</text>
+</g>
+<g transform="translate(143.00537109375,329.40000000000003)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+40</text>
+</g>
+<g transform="translate(246.53691406250005,329.40000000000003)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+60</text>
+</g>
+<g transform="translate(350.06845703125003,329.40000000000003)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+80</text>
+</g>
+<g transform="translate(453.6000000000001,329.40000000000003)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="12px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+100</text>
+</g>
+<g clip-path="url(#ngMBlldtEkTr)">
+<g>
+<path fill="none" stroke="rgb(254,41,108)" paint-order="fill stroke markers" d=" M 39.473828125 246.27974752556392 L 453.5999999999999 243.0103933616708" stroke-miterlimit="10"/>
+<g transform="translate(264.13727636718744,245.68717708335828)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -149.6030795898437 -5.631889445455272 Q -128.65867834005465 -5.260434742724962 -119.68246367187496 -5.103685302430932 C -110.7063087892734 -4.946936906157824 -98.73808096640585 -4.7390762121710726 -89.76184775390615 -4.586896656898148 C -80.7857114156246 -4.434718743992916 -68.81750025931272 -4.233271071646854 -59.841231835937464 -4.089160408503744 C -50.86513070853148 -3.945052431235425 -38.896951960233196 -3.7544837340051513 -29.92061591796866 -3.6261678555267167 C -20.94458240945194 -3.497856301739719 -8.976431944040602 -3.327904301998438 5.684341886080802e-14 -3.2337356342856367 C 8.97593760674062 -3.1395721524958438 20.944311062397077 -3.020723366202403 29.920615917968746 -2.9983940238514037 C 38.89668061317832 -2.9760652789202817 50.865645039306045 -2.9975005945363122 59.84123183593755 -3.0848753433452316 C 68.81801459008733 -3.172261734455664 80.78651757976948 -3.3916006783311077 89.76184775390635 -3.5809311569159092 C 98.73888713055072 -3.7702976903446515 110.70679558690955 -4.09865882147976 119.68246367187504 -4.34719871672371 Q 128.65916513769076 -4.595767226703169 149.60307958984373 -5.237959174327273 L 149.60307958984373 0.5137424075017236 Q 128.65887065774677 0.20223397076718325 119.68246367187504 0.09540362658071899 C 110.70650110696556 -0.011421428446682591 98.73824755495176 -0.1508191127513121 89.76184775390635 -0.19844225654449588 C 80.7858780041705 -0.24606311875532957 68.81704467965325 -0.2764200746330874 59.84123183593755 -0.2220763934326726 C 50.864675128871966 -0.16772820854290438 38.89591873155341 -0.00017546348823757607 29.920615917968746 0.16386396375611412 C 20.943549180772166 0.3279356298034356 8.975565959926735 0.635750935479815 5.684341886080802e-14 0.8716272508729048 C -8.976803590854486 1.1075360909919434 -20.94474926556893 1.4664505000950836 -29.92061591796866 1.7364811487965426 C -38.897118816350186 2.0065309383700587 -50.86521284806557 2.386064834550087 -59.841231835937464 2.6718953784561563 C -68.81758239884681 2.9577364809710507 -80.78575645255874 3.3481511270392152 -89.76184775390615 3.642053303533089 C -98.73812600333999 3.935961601226898 -110.70633577168553 4.332790095670014 -119.68246367187496 4.631263625748431 Q -128.6587053224668 4.9297409382466775 -149.6030795898437 5.6318894454553 L -149.6030795898437 -5.631889445455272" fill-opacity="0.5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-264.13727636718744,-245.68717708335828)"/>
+</g>
+<path fill="none" stroke="rgb(72,126,182)" paint-order="fill stroke markers" d=" M 39.473828125 160.35883770487894 L 453.5999999999999 152.4800691863032" stroke-miterlimit="10"/>
+<g transform="translate(263.3607897949219,157.70317864523886)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -131.22623071289067 -7.261621827082479 Q -112.85465638242192 -6.820478556789198 -104.98098457031253 -6.637437495419363 C -97.10750869687503 -6.454400989080944 -86.60946615352282 -6.213131654222161 -78.73573842773439 -6.041363268054965 C -70.86231846797594 -5.869601595921596 -60.36431195319277 -5.6443085443347405 -52.49049228515625 -5.492337301084149 C -44.617164267645904 -5.340375547096057 -34.11917892535992 -5.142806033478699 -26.245246142578168 -5.028253277259353 C -18.37203123981306 -4.913710965012136 -7.873829290723801 -4.77084341129879 -5.684341886080802e-14 -4.728687072862272 C 7.873318394823073 -4.686533469753089 18.372429425812484 -4.667181031285195 26.245246142578083 -4.7472201387736845 C 34.11957711135937 -4.827274640927668 44.619040315988045 -5.034487239284987 52.49049228515622 -5.262332438337182 C 60.36618800153493 -5.49030047589893 70.86419195873734 -5.919358092822315 78.73573842773436 -6.266597594153495 C 86.61133964428423 -6.614015963579251 97.10866323454633 -7.16083600757356 104.9809845703125 -7.577858674193635 Q 112.85581092009322 -7.9950140396174945 131.22623071289064 -9.047191034299942 L 131.22623071289064 0.8464211442226883 Q 112.8549121702722 0.493226816134925 104.9809845703125 0.3757226938458871 C 97.10776448472531 0.25822912992867736 86.60959145564928 0.11083597873987128 78.73573842773436 0.06309552353519621 C 70.8624437701024 0.015358453820621898 60.36339823049222 -0.0142131964098898 52.49049228515622 0.05746427744838911 C 44.616250544945345 0.1291539128138534 34.116744823886755 0.3215003824321628 26.245246142578083 0.5409858876143403 C 18.36959713833987 0.760587118627359 7.8715067922774855 1.1794313061433859 -5.684341886080802e-14 1.5210867314323764 C -7.875640893269389 1.8629215935267727 -18.37296671312182 2.405217222528985 -26.245246142578168 2.8192868455589633 C -34.120114398668676 3.2334926368332346 -44.617646769656574 3.8304898778112713 -52.49049228515625 4.282004779113208 C -60.364794455203445 4.733603220887641 -70.86258556083544 5.358334655663172 -78.73573842773439 5.829664655813531 C -86.60973324638232 6.301045059801423 -97.10766822106814 6.941759619797055 -104.98098457031253 7.424372792907377 Q -112.85481590661502 7.907017533342978 -131.22623071289067 9.047191034299942 L -131.22623071289067 -7.261621827082479" fill-opacity="0.5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-263.3607897949219,-157.70317864523886)"/>
+</g>
+<path fill="none" stroke="rgb(167,206,49)" paint-order="fill stroke markers" d=" M 39.473828125 122.60150090151504 L 453.5999999999999 101.73789573135949" stroke-miterlimit="10"/>
+<g transform="translate(326.2562021484376,110.43889478597237)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -56.942348632812525 -13.00846335194197 Q -48.97148819658361 -12.144286516405803 -45.55387890624996 -11.788589639326148 C -42.1384063606461 -11.4331151497001 -37.583544446819694 -10.966517672550811 -34.165409179687515 -10.63789212958963 C -30.750462610882227 -10.309573153700002 -26.195812608171572 -9.882394127523233 -22.776939453125067 -9.598774576490115 C -19.36273077223407 -9.315541976363274 -14.807951494177946 -8.954765484854713 -11.388469726562505 -8.748384959056438 C -7.9748696582404435 -8.542359419269273 -3.4183490918420363 -8.301921501110371 -5.684341886080802e-14 -8.224087691205312 C 3.4147327440954665 -8.146336223423743 7.9751717673082085 -8.123652610524912 11.388469726562505 -8.229767366767675 C 14.808253603245745 -8.33608376129552 19.369188294626337 -8.624147595817254 22.776939453125067 -8.932191527107335 C 26.202270130563807 -9.241824560380689 30.75811813843141 -9.815157875844639 34.1654091796874 -10.288690581979125 C 37.59119997436888 -10.764794315418388 42.14401404066616 -11.515827957720171 45.55387890624996 -12.097646325686497 Q 48.97709587660369 -12.681742936372808 56.942348632812525 -14.175073844154582 L 56.942348632812525 3.8667014927816297 Q 48.973219421814 3.17567586589599 45.55387890624996 2.9367722586721072 C 42.14013758587647 2.69825985785849 37.58453900298109 2.405982473080686 34.1654091796874 2.275314799323297 C 30.751457167043622 2.144845004122075 26.192464436432722 2.0309135555177265 22.776939453125067 2.066314028810069 C 19.359382600495255 2.1017355615694115 14.79777109192736 2.273858629961794 11.388469726562505 2.511388152828914 C 7.964689255989825 2.7499264498063245 3.4068734593975596 3.2323588496463254 -5.684341886080802e-14 3.653206761625171 C -3.426208376539943 4.076443097948092 -7.979608629305412 4.775787122244216 -11.388469726562505 5.325002313834801 C -14.812690465242914 5.876692158444794 -19.365429274937338 6.69613888555942 -22.776939453125067 7.322890215627098 C -26.19851111087484 7.951490007334515 -30.75204072905543 8.837408971663105 -34.165409179687515 9.509506053085119 C -37.5851225649929 10.182852461129034 -42.139377861008306 11.108284520632104 -45.55387890624996 11.807701847180198 Q -48.972459696945805 12.507954857952942 -56.942348632812525 14.175073844154582 L -56.942348632812525 -13.00846335194197" fill-opacity="0.5" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-326.2562021484376,-110.43889478597237)"/>
+</g>
+<g transform="translate(376,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-376,-249)"/>
+</g>
+<g transform="translate(393,231)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-393,-231)"/>
+</g>
+<g transform="translate(408,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-408,-237)"/>
+</g>
+<g transform="translate(356,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-356,-242)"/>
+</g>
+<g transform="translate(325,243)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-325,-243)"/>
+</g>
+<g transform="translate(305,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-305,-247)"/>
+</g>
+<g transform="translate(316,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-316,-242)"/>
+</g>
+<g transform="translate(375,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-375,-242)"/>
+</g>
+<g transform="translate(273,259)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-273,-259)"/>
+</g>
+<g transform="translate(361,235)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-361,-235)"/>
+</g>
+<g transform="translate(300,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-300,-240)"/>
+</g>
+<g transform="translate(353,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-353,-249)"/>
+</g>
+<g transform="translate(302,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-302,-247)"/>
+</g>
+<g transform="translate(372,253)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-372,-253)"/>
+</g>
+<g transform="translate(298,262)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-298,-262)"/>
+</g>
+<g transform="translate(344,244)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-344,-244)"/>
+</g>
+<g transform="translate(288,230)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-288,-230)"/>
+</g>
+<g transform="translate(378,234)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-378,-234)"/>
+</g>
+<g transform="translate(299,231)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-299,-231)"/>
+</g>
+<g transform="translate(307,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-307,-247)"/>
+</g>
+<g transform="translate(262,259)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-262,-259)"/>
+</g>
+<g transform="translate(380,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-380,-238)"/>
+</g>
+<g transform="translate(331,262)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-331,-262)"/>
+</g>
+<g transform="translate(309,248)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-309,-248)"/>
+</g>
+<g transform="translate(319,267)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-319,-267)"/>
+</g>
+<g transform="translate(306,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-306,-242)"/>
+</g>
+<g transform="translate(325,251)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-325,-251)"/>
+</g>
+<g transform="translate(349,266)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-349,-266)"/>
+</g>
+<g transform="translate(324,248)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-324,-248)"/>
+</g>
+<g transform="translate(302,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-302,-237)"/>
+</g>
+<g transform="translate(247,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-247,-245)"/>
+</g>
+<g transform="translate(355,244)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-355,-244)"/>
+</g>
+<g transform="translate(375,241)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-375,-241)"/>
+</g>
+<g transform="translate(364,244)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-364,-244)"/>
+</g>
+<g transform="translate(294,229)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-294,-229)"/>
+</g>
+<g transform="translate(360,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-360,-242)"/>
+</g>
+<g transform="translate(311,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-311,-249)"/>
+</g>
+<g transform="translate(340,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-340,-237)"/>
+</g>
+<g transform="translate(390,234)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-390,-234)"/>
+</g>
+<g transform="translate(363,256)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-363,-256)"/>
+</g>
+<g transform="translate(229,215)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-229,-215)"/>
+</g>
+<g transform="translate(319,234)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-319,-234)"/>
+</g>
+<g transform="translate(283,221)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-283,-221)"/>
+</g>
+<g transform="translate(399,239)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-399,-239)"/>
+</g>
+<g transform="translate(318,252)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-318,-252)"/>
+</g>
+<g transform="translate(389,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-389,-242)"/>
+</g>
+<g transform="translate(264,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-264,-238)"/>
+</g>
+<g transform="translate(231,239)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-231,-239)"/>
+</g>
+<g transform="translate(241,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-241,-240)"/>
+</g>
+<g transform="translate(366,235)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-366,-235)"/>
+</g>
+<g transform="translate(320,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-320,-240)"/>
+</g>
+<g transform="translate(284,228)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-284,-228)"/>
+</g>
+<g transform="translate(349,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-349,-238)"/>
+</g>
+<g transform="translate(334,205)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-334,-205)"/>
+</g>
+<g transform="translate(256,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-256,-240)"/>
+</g>
+<g transform="translate(361,253)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-361,-253)"/>
+</g>
+<g transform="translate(301,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-301,-254)"/>
+</g>
+<g transform="translate(235,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-235,-242)"/>
+</g>
+<g transform="translate(337,241)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-337,-241)"/>
+</g>
+<g transform="translate(358,236)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-358,-236)"/>
+</g>
+<g transform="translate(397,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-397,-238)"/>
+</g>
+<g transform="translate(298,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-298,-242)"/>
+</g>
+<g transform="translate(324,253)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-324,-253)"/>
+</g>
+<g transform="translate(315,222)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-315,-222)"/>
+</g>
+<g transform="translate(290,229)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-290,-229)"/>
+</g>
+<g transform="translate(286,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-286,-237)"/>
+</g>
+<g transform="translate(269,257)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-269,-257)"/>
+</g>
+<g transform="translate(336,219)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-336,-219)"/>
+</g>
+<g transform="translate(306,228)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-306,-228)"/>
+</g>
+<g transform="translate(348,255)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-348,-255)"/>
+</g>
+<g transform="translate(274,264)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-274,-264)"/>
+</g>
+<g transform="translate(366,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-366,-245)"/>
+</g>
+<g transform="translate(327,232)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-327,-232)"/>
+</g>
+<g transform="translate(406,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-406,-237)"/>
+</g>
+<g transform="translate(356,239)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-356,-239)"/>
+</g>
+<g transform="translate(290,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-290,-233)"/>
+</g>
+<g transform="translate(359,231)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-359,-231)"/>
+</g>
+<g transform="translate(324,255)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-324,-255)"/>
+</g>
+<g transform="translate(330,260)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-330,-260)"/>
+</g>
+<g transform="translate(313,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-313,-242)"/>
+</g>
+<g transform="translate(162,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-162,-254)"/>
+</g>
+<g transform="translate(305,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-305,-254)"/>
+</g>
+<g transform="translate(273,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-273,-247)"/>
+</g>
+<g transform="translate(335,259)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-335,-259)"/>
+</g>
+<g transform="translate(210,258)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-210,-258)"/>
+</g>
+<g transform="translate(254,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-254,-242)"/>
+</g>
+<g transform="translate(270,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-270,-247)"/>
+</g>
+<g transform="translate(329,236)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-329,-236)"/>
+</g>
+<g transform="translate(273,248)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-273,-248)"/>
+</g>
+<g transform="translate(321,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-321,-245)"/>
+</g>
+<g transform="translate(277,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-277,-250)"/>
+</g>
+<g transform="translate(367,231)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-367,-231)"/>
+</g>
+<g transform="translate(288,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-288,-240)"/>
+</g>
+<g transform="translate(401,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-401,-242)"/>
+</g>
+<g transform="translate(297,236)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-297,-236)"/>
+</g>
+<g transform="translate(148,258)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-148,-258)"/>
+</g>
+<g transform="translate(168,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-168,-238)"/>
+</g>
+<g transform="translate(383,229)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-383,-229)"/>
+</g>
+<g transform="translate(354,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-354,-245)"/>
+</g>
+<g transform="translate(341,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-341,-250)"/>
+</g>
+<g transform="translate(338,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-338,-246)"/>
+</g>
+<g transform="translate(279,232)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-279,-232)"/>
+</g>
+<g transform="translate(357,266)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-357,-266)"/>
+</g>
+<g transform="translate(413,244)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-413,-244)"/>
+</g>
+<g transform="translate(367,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-367,-245)"/>
+</g>
+<g transform="translate(366,253)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-366,-253)"/>
+</g>
+<g transform="translate(331,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-331,-247)"/>
+</g>
+<g transform="translate(373,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-373,-233)"/>
+</g>
+<g transform="translate(317,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-317,-247)"/>
+</g>
+<g transform="translate(356,227)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-356,-227)"/>
+</g>
+<g transform="translate(357,265)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-357,-265)"/>
+</g>
+<g transform="translate(334,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-334,-238)"/>
+</g>
+<g transform="translate(300,226)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-300,-226)"/>
+</g>
+<g transform="translate(388,231)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-388,-231)"/>
+</g>
+<g transform="translate(378,259)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-378,-259)"/>
+</g>
+<g transform="translate(349,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-349,-245)"/>
+</g>
+<g transform="translate(361,243)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-361,-243)"/>
+</g>
+<g transform="translate(385,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-385,-249)"/>
+</g>
+<g transform="translate(394,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-394,-233)"/>
+</g>
+<g transform="translate(284,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-284,-242)"/>
+</g>
+<g transform="translate(386,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-386,-238)"/>
+</g>
+<g transform="translate(156,230)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-156,-230)"/>
+</g>
+<g transform="translate(297,239)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-297,-239)"/>
+</g>
+<g transform="translate(350,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-350,-242)"/>
+</g>
+<g transform="translate(337,244)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-337,-244)"/>
+</g>
+<g transform="translate(350,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-350,-250)"/>
+</g>
+<g transform="translate(302,221)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-302,-221)"/>
+</g>
+<g transform="translate(114,275)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-114,-275)"/>
+</g>
+<g transform="translate(275,229)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-275,-229)"/>
+</g>
+<g transform="translate(345,255)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-345,-255)"/>
+</g>
+<g transform="translate(338,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-338,-254)"/>
+</g>
+<g transform="translate(344,262)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-344,-262)"/>
+</g>
+<g transform="translate(286,269)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-286,-269)"/>
+</g>
+<g transform="translate(316,236)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-316,-236)"/>
+</g>
+<g transform="translate(296,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-296,-254)"/>
+</g>
+<g transform="translate(212,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-212,-246)"/>
+</g>
+<g transform="translate(375,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-375,-249)"/>
+</g>
+<g transform="translate(398,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-398,-250)"/>
+</g>
+<g transform="translate(322,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-322,-233)"/>
+</g>
+<g transform="translate(291,260)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-291,-260)"/>
+</g>
+<g transform="translate(345,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-345,-242)"/>
+</g>
+<g transform="translate(231,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-231,-250)"/>
+</g>
+<g transform="translate(373,264)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-373,-264)"/>
+</g>
+<g transform="translate(381,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-381,-246)"/>
+</g>
+<g transform="translate(347,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-347,-245)"/>
+</g>
+<g transform="translate(218,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-218,-233)"/>
+</g>
+<g transform="translate(264,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-264,-250)"/>
+</g>
+<g transform="translate(308,226)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-308,-226)"/>
+</g>
+<g transform="translate(393,221)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-393,-221)"/>
+</g>
+<g transform="translate(332,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-332,-249)"/>
+</g>
+<g transform="translate(320,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-320,-247)"/>
+</g>
+<g transform="translate(266,235)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-266,-235)"/>
+</g>
+<g transform="translate(336,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-336,-254)"/>
+</g>
+<g transform="translate(290,215)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-290,-215)"/>
+</g>
+<g transform="translate(329,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-329,-233)"/>
+</g>
+<g transform="translate(323,253)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-323,-253)"/>
+</g>
+<g transform="translate(279,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-279,-249)"/>
+</g>
+<g transform="translate(370,243)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-370,-243)"/>
+</g>
+<g transform="translate(332,261)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-332,-261)"/>
+</g>
+<g transform="translate(301,244)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-301,-244)"/>
+</g>
+<g transform="translate(202,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-202,-250)"/>
+</g>
+<g transform="translate(329,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-329,-250)"/>
+</g>
+<g transform="translate(314,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-314,-246)"/>
+</g>
+<g transform="translate(368,235)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-368,-235)"/>
+</g>
+<g transform="translate(407,255)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-407,-255)"/>
+</g>
+<g transform="translate(303,252)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-303,-252)"/>
+</g>
+<g transform="translate(305,239)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-305,-239)"/>
+</g>
+<g transform="translate(379,256)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-379,-256)"/>
+</g>
+<g transform="translate(276,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-276,-237)"/>
+</g>
+<g transform="translate(293,255)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-293,-255)"/>
+</g>
+<g transform="translate(357,232)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-357,-232)"/>
+</g>
+<g transform="translate(320,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-320,-254)"/>
+</g>
+<g transform="translate(325,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-325,-238)"/>
+</g>
+<g transform="translate(398,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-398,-249)"/>
+</g>
+<g transform="translate(315,236)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-315,-236)"/>
+</g>
+<g transform="translate(225,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-225,-247)"/>
+</g>
+<g transform="translate(286,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-286,-233)"/>
+</g>
+<g transform="translate(297,241)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-297,-241)"/>
+</g>
+<g transform="translate(315,252)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-315,-252)"/>
+</g>
+<g transform="translate(338,260)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-338,-260)"/>
+</g>
+<g transform="translate(344,243)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-344,-243)"/>
+</g>
+<g transform="translate(331,255)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-331,-255)"/>
+</g>
+<g transform="translate(344,235)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-344,-235)"/>
+</g>
+<g transform="translate(296,267)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-296,-267)"/>
+</g>
+<g transform="translate(340,241)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-340,-241)"/>
+</g>
+<g transform="translate(204,236)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-204,-236)"/>
+</g>
+<g transform="translate(366,251)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-366,-251)"/>
+</g>
+<g transform="translate(330,232)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-330,-232)"/>
+</g>
+<g transform="translate(322,259)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-322,-259)"/>
+</g>
+<g transform="translate(202,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-202,-246)"/>
+</g>
+<g transform="translate(350,236)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-350,-236)"/>
+</g>
+<g transform="translate(360,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-360,-250)"/>
+</g>
+<g transform="translate(356,248)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-356,-248)"/>
+</g>
+<g transform="translate(306,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-306,-246)"/>
+</g>
+<g transform="translate(209,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-209,-242)"/>
+</g>
+<g transform="translate(366,265)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-366,-265)"/>
+</g>
+<g transform="translate(298,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-298,-247)"/>
+</g>
+<g transform="translate(357,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-357,-240)"/>
+</g>
+<g transform="translate(340,259)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-340,-259)"/>
+</g>
+<g transform="translate(246,234)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-246,-234)"/>
+</g>
+<g transform="translate(375,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-375,-233)"/>
+</g>
+<g transform="translate(308,243)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-308,-243)"/>
+</g>
+<g transform="translate(368,252)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-368,-252)"/>
+</g>
+<g transform="translate(337,218)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-337,-218)"/>
+</g>
+<g transform="translate(298,245)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-298,-245)"/>
+</g>
+<g transform="translate(368,239)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-368,-239)"/>
+</g>
+<g transform="translate(329,235)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-329,-235)"/>
+</g>
+<g transform="translate(376,247)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-376,-247)"/>
+</g>
+<g transform="translate(330,252)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-330,-252)"/>
+</g>
+<g transform="translate(345,258)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-345,-258)"/>
+</g>
+<g transform="translate(379,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-379,-254)"/>
+</g>
+<g transform="translate(221,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-221,-246)"/>
+</g>
+<g transform="translate(262,249)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-262,-249)"/>
+</g>
+<g transform="translate(363,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-363,-242)"/>
+</g>
+<g transform="translate(342,250)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-342,-250)"/>
+</g>
+<g transform="translate(265,251)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-265,-251)"/>
+</g>
+<g transform="translate(363,253)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-363,-253)"/>
+</g>
+<g transform="translate(343,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-343,-233)"/>
+</g>
+<g transform="translate(311,272)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-311,-272)"/>
+</g>
+<g transform="translate(302,233)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-302,-233)"/>
+</g>
+<g transform="translate(275,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-275,-240)"/>
+</g>
+<g transform="translate(387,251)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-387,-251)"/>
+</g>
+<g transform="translate(192,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-192,-237)"/>
+</g>
+<g transform="translate(210,237)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-210,-237)"/>
+</g>
+<g transform="translate(364,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-364,-238)"/>
+</g>
+<g transform="translate(173,243)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-173,-243)"/>
+</g>
+<g transform="translate(339,235)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-339,-235)"/>
+</g>
+<g transform="translate(333,215)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-333,-215)"/>
+</g>
+<g transform="translate(329,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-329,-242)"/>
+</g>
+<g transform="translate(374,226)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-374,-226)"/>
+</g>
+<g transform="translate(334,254)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-334,-254)"/>
+</g>
+<g transform="translate(281,246)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-281,-246)"/>
+</g>
+<g transform="translate(360,224)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-360,-224)"/>
+</g>
+<g transform="translate(322,238)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-322,-238)"/>
+</g>
+<g transform="translate(334,253)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-334,-253)"/>
+</g>
+<g transform="translate(180,240)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-180,-240)"/>
+</g>
+<g transform="translate(346,242)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-346,-242)"/>
+</g>
+<g transform="translate(281,232)">
+<path fill="rgb(254,41,108)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-281,-232)"/>
+</g>
+<g transform="translate(345,165)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-345,-165)"/>
+</g>
+<g transform="translate(132,159)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-132,-159)"/>
+</g>
+<g transform="translate(262,136)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-262,-136)"/>
+</g>
+<g transform="translate(339,149)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-339,-149)"/>
+</g>
+<g transform="translate(283,164)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-283,-164)"/>
+</g>
+<g transform="translate(341,158)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-341,-158)"/>
+</g>
+<g transform="translate(269,154)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-269,-154)"/>
+</g>
+<g transform="translate(365,161)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-365,-161)"/>
+</g>
+<g transform="translate(268,144)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-268,-144)"/>
+</g>
+<g transform="translate(287,168)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-287,-168)"/>
+</g>
+<g transform="translate(318,149)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-318,-149)"/>
+</g>
+<g transform="translate(362,150)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-362,-150)"/>
+</g>
+<g transform="translate(365,149)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-365,-149)"/>
+</g>
+<g transform="translate(368,150)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-368,-150)"/>
+</g>
+<g transform="translate(364,132)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-364,-132)"/>
+</g>
+<g transform="translate(344,158)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-344,-158)"/>
+</g>
+<g transform="translate(279,146)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-279,-146)"/>
+</g>
+<g transform="translate(194,160)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-194,-160)"/>
+</g>
+<g transform="translate(255,157)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-255,-157)"/>
+</g>
+<g transform="translate(201,152)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-201,-152)"/>
+</g>
+<g transform="translate(266,153)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-266,-153)"/>
+</g>
+<g transform="translate(248,155)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-248,-155)"/>
+</g>
+<g transform="translate(327,162)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-327,-162)"/>
+</g>
+<g transform="translate(221,151)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-221,-151)"/>
+</g>
+<g transform="translate(233,173)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-233,-173)"/>
+</g>
+<g transform="translate(394,137)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-394,-137)"/>
+</g>
+<g transform="translate(375,156)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-375,-156)"/>
+</g>
+<g transform="translate(301,155)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-301,-155)"/>
+</g>
+<g transform="translate(272,158)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-272,-158)"/>
+</g>
+<g transform="translate(303,149)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-303,-149)"/>
+</g>
+<g transform="translate(363,159)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-363,-159)"/>
+</g>
+<g transform="translate(296,151)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-296,-151)"/>
+</g>
+<g transform="translate(204,134)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-204,-134)"/>
+</g>
+<g transform="translate(282,172)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-282,-172)"/>
+</g>
+<g transform="translate(368,153)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-368,-153)"/>
+</g>
+<g transform="translate(370,153)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-370,-153)"/>
+</g>
+<g transform="translate(335,135)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-335,-135)"/>
+</g>
+<g transform="translate(342,154)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-342,-154)"/>
+</g>
+<g transform="translate(322,134)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-322,-134)"/>
+</g>
+<g transform="translate(300,158)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-300,-158)"/>
+</g>
+<g transform="translate(238,155)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-238,-155)"/>
+</g>
+<g transform="translate(303,162)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-303,-162)"/>
+</g>
+<g transform="translate(314,161)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-314,-161)"/>
+</g>
+<g transform="translate(326,176)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-326,-176)"/>
+</g>
+<g transform="translate(287,152)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-287,-152)"/>
+</g>
+<g transform="translate(313,166)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-313,-166)"/>
+</g>
+<g transform="translate(329,152)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-329,-152)"/>
+</g>
+<g transform="translate(392,153)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-392,-153)"/>
+</g>
+<g transform="translate(155,163)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-155,-163)"/>
+</g>
+<g transform="translate(311,155)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-311,-155)"/>
+</g>
+<g transform="translate(302,160)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-302,-160)"/>
+</g>
+<g transform="translate(369,162)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-369,-162)"/>
+</g>
+<g transform="translate(265,182)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-265,-182)"/>
+</g>
+<g transform="translate(258,164)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-258,-164)"/>
+</g>
+<g transform="translate(307,172)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-307,-172)"/>
+</g>
+<g transform="translate(373,158)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-373,-158)"/>
+</g>
+<g transform="translate(292,150)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-292,-150)"/>
+</g>
+<g transform="translate(361,166)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-361,-166)"/>
+</g>
+<g transform="translate(353,145)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-353,-145)"/>
+</g>
+<g transform="translate(241,144)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-241,-144)"/>
+</g>
+<g transform="translate(255,151)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-255,-151)"/>
+</g>
+<g transform="translate(315,142)">
+<path fill="rgb(72,126,182)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-315,-142)"/>
+</g>
+<g transform="translate(318,111)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-318,-111)"/>
+</g>
+<g transform="translate(269,104)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-269,-104)"/>
+</g>
+<g transform="translate(375,107)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-375,-107)"/>
+</g>
+<g transform="translate(383,103)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-383,-103)"/>
+</g>
+<g transform="translate(345,106)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-345,-106)"/>
+</g>
+<g transform="translate(368,83)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-368,-83)"/>
+</g>
+<g transform="translate(356,107)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-356,-107)"/>
+</g>
+<g transform="translate(370,119)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-370,-119)"/>
+</g>
+<g transform="translate(340,115)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-340,-115)"/>
+</g>
+<g transform="translate(344,103)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-344,-103)"/>
+</g>
+<g transform="translate(303,98)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-303,-98)"/>
+</g>
+<g transform="translate(305,125)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-305,-125)"/>
+</g>
+<g transform="translate(365,105)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-365,-105)"/>
+</g>
+<g transform="translate(350,109)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-350,-109)"/>
+</g>
+<g transform="translate(322,110)">
+<path fill="rgb(167,206,49)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 5.95 0 A 5.95 5.95 0 1 0 5.949997025000248 0.00594999900833537 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-322,-110)"/>
+</g>
+</g>
+</g>
+<g transform="translate(249.3369140625,407.2)">
+<path fill="rgb(255,255,255)" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M -152.064453125 -47.8 L 153.064453125 -47.8 L 153.064453125 48.8 L -152.064453125 48.8 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-249.3369140625,-407.2)"/>
+</g>
+<g transform="translate(279.546875,368.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+Slope</text>
+</g>
+<g transform="translate(341.583203125,368.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+Int</text>
+</g>
+<g transform="translate(403.61953125,368.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+Cor</text>
+</g>
+<g transform="translate(223.110546875,394.2)">
+<text fill="rgb(254,41,108)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+Tcell_GG vs Exp_GG</text>
+</g>
+<g transform="translate(279.546875,394.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+5.76e-4</text>
+</g>
+<g transform="translate(341.583203125,394.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+3</text>
+</g>
+<g transform="translate(403.61953125,394.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+3.79e-2</text>
+</g>
+<g transform="translate(223.110546875,420.2)">
+<text fill="rgb(72,126,182)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+Tcell_GA vs Exp_GA</text>
+</g>
+<g transform="translate(279.546875,420.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+1.39e-3</text>
+</g>
+<g transform="translate(341.583203125,420.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+4.19</text>
+</g>
+<g transform="translate(403.61953125,420.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+1.08e-1</text>
+</g>
+<g transform="translate(223.110546875,446.2)">
+<text fill="rgb(167,206,49)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+Tcell_AA vs Exp_AA</text>
+</g>
+<g transform="translate(279.546875,446.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+3.68e-3</text>
+</g>
+<g transform="translate(341.583203125,446.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+4.68</text>
+</g>
+<g transform="translate(403.61953125,446.2)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="end" dominant-baseline="central">
+1.83e-1</text>
+</g>
+<g transform="translate(231,12.8)">
+<text fill="rgb(0,0,0)" stroke="none" font-family="Arial" font-size="20px" font-style="normal" font-weight="normal" text-decoration="normal" x="0" y="0" text-anchor="middle" dominant-baseline="central">
+rs11761253</text>
+</g>
+<g transform="translate(230.5,230.5)">
+<path fill="none" stroke="rgb(204,204,204)" paint-order="fill stroke markers" d=" M -230 -230 L 231 -230 L 231 231 L -230 231 Z" stroke-linejoin="mitter" stroke-miterlimit="10"/>
+<g transform="translate(-230.5,-230.5)"/>
+</g>
+</g>
+</svg>
+
