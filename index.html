@@ -92,11 +92,11 @@
       margin-top: 0px;
       margin-bottom: 0px;
     }
+    .ui-dialog {z-index:9999;}
     .ui-dialog .ui-dialog-titlebar { background: #EFEFEF; }
     .ui-dialog .ui-dialog-titlebar-close
     {
       background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAADFBMVEXf4ueZmZnu7u53d3fvpLkJAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfkCxUONjYdLkxuAAAAKklEQVQI12NgQAMHmBkYmD/wH2Bg+GMP5Nr/ARL8H2AEmAuSgCgBKUYFAN0FC/Wtg65fAAAAAElFTkSuQmCC');
-      z-index:999999;
     }
   </style>
   <script type="text/javascript">
@@ -552,9 +552,9 @@ style="fill:#ffffff;"
 
     el.attr('data-custom-id', imageId);
     el.draggable({ handle: "#dragHandle" });
-  
-    $(".plot-box").click (function (e) {
-      if (drag || e.originalEvent.path[2].classList.contains("svg-pan-zoom-control")) return;
+
+    el[0].querySelector(".plot-box").addEventListener('click', function (e) {
+      if (drag || (e.path[0].classList[0] && e.path[0].classList[0].includes("svg-pan-zoom-control"))) return;
       var myImg = this.id.replace('_container','');
       $("#dialog-2").html(this.innerHTML.replace(myImg,myImg+'_popup')); 
       $("#dialog-2").dialog("open");
@@ -568,6 +568,7 @@ style="fill:#ffffff;"
         controlIconsEnabled:true
       });
     });
+  
     return false;
   }.bind(this);
 
