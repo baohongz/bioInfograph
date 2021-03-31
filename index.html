@@ -485,7 +485,6 @@ console.log(svgclass.length);
       svg = svg.replace(/<rect fill=\"#ffffff\" class=\"highcharts-background\"/i,"<rect fill=\"none\" class=\"highcharts-background\""); // highcharts.js
       svg = svg.replace(/background:\s+white;/g,""); // WikiPathways
       svg = svg.replace(/<rect\s+id=\"BG[^>]+\/>/gi,""); // Reactome
-style="fill:#ffffff;"
     }
 
     var node = this.items.pop();
@@ -680,7 +679,7 @@ console.log(JSON.stringify(locsize));
   .container .ui-draggable-handle {display: none;}
 </style>
 <div class="container" style="width:1152px;">
-  <div class="row no-print"><a class="btn btn-default btn-sm" id="toggle-control">Show/Hide Control</a> | Click on individual panels to view enlarged plots | Press the left mouse button and drag to pan | Click on '+' or '-' control to zoom in or out | Press and drag borders to resize</div>
+  <div class="row no-print"><a class="btn btn-default btn-sm" id="toggle-control">Show/Hide Control</a> | Click on individual panels to view enlarged plots | Press the left mouse button and drag to pan | Click on '+' or '-' control to zoom in or out | Press and drag borders to resize | Made by <a href="https://github.com/baohongz/bioInfograph">bioInfograph</a></div>
   <div class="row"> <div class="grid-stack">
   </div></div>
 </div>
@@ -724,7 +723,6 @@ console.log(JSON.stringify(locsize));
     CTMs[myImg] = $('#'+myImg)[0].querySelector('.svg-pan-zoom_viewport').getAttribute('transform');
   });
 */
-
 
   Object.keys(locsize).forEach(function(myImg) {
 /*
