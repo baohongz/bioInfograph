@@ -1,5 +1,8 @@
 # bioInfograph
-bioInfograph: A web-based interactive designing tool of multi-panel scientific figure
+An online tool to design and display multi-panel scientific figure interactively
+
+Link: https://baohongz.github.io/bioInfograph
+
 ---
 ![bioInfograph](figure/Fig1.png?raw=true "bioInfograph")
 ---
