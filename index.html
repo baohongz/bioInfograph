@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/trash.css"/>
   <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/dropzone.css">
   <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/jquery-ui.css">
+  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel='stylesheet' type='text/css'> 
+  <link href="https://fonts.googleapis.com/css?family=Freckle+Face" rel='stylesheet' type='text/css'> 
 
   <script src="https://baohongz.github.io/bioInfograph/dist/jquery.min.js"></script>
   <script src="https://baohongz.github.io/bioInfograph/dist/jquery-ui.min.js"></script>
@@ -142,6 +144,14 @@
       <a class="btn btn-default" id="add-new-Text">Add Text Box</a>
       <a class="btn btn-default" id="add-new-Control">Add Control</a>
       <a class="btn btn-default" id="save-HTML">Save as HTML/session</a>
+  <div class="btn-group">
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Demo</button>
+    <div class="dropdown-menu" style="padding:4px;">
+      <a class="dropdown-item" href="https://interactivereport.github.io/Quickomics/Figure1.html">Demo1</a>
+      <a class="dropdown-item" href="https://baohongz.github.io/bioInfograph/figure/Fig1.html">Demo2</a>
+      <a class="dropdown-item" href="https://baohongz.github.io/bioInfograph/figure/Fig.s5.html">Demo3</a>
+    </div>
+  </div><!-- /btn-group -->
       <a class="btn btn-default" href=demo_video.html target=_blank>Help</a>
       <input type="checkbox" class="custom-control-input" id="no-white-bg" checked>
       <label class="custom-control-label" for="no-white-bg">No White Background</label> | 
@@ -552,21 +562,23 @@ console.log(svgclass.length);
     el.attr('data-custom-id', imageId);
     el.draggable({ handle: "#dragHandle" });
 
-    el[0].querySelector(".plot-box").addEventListener('click', function (e) {
-      if (drag || (e.path[0].classList[0] && e.path[0].classList[0].includes("svg-pan-zoom-control"))) return;
-      var myImg = this.id.replace('_container','');
-      $("#dialog-2").html(this.innerHTML.replace(myImg,myImg+'_popup')); 
-      $("#dialog-2").dialog("open");
-      svgPanZoom('#'+myImg+'_popup', {
-        zoomEnabled:true,
-        maxZoom:100,
-        minZoom:0.1,
-        zoomScaleSensitivity:0.1,
-        fit:true,
-        center:true,
-        controlIconsEnabled:true
+    if (el[0].querySelector(".plot-box")) {
+      el[0].querySelector(".plot-box").addEventListener('click', function (e) {
+        if (drag || (e.path[0].classList[0] && e.path[0].classList[0].includes("svg-pan-zoom-control"))) return;
+        var myImg = this.id.replace('_container','');
+        $("#dialog-2").html(this.innerHTML.replace(myImg,myImg+'_popup')); 
+        $("#dialog-2").dialog("open");
+        svgPanZoom('#'+myImg+'_popup', {
+          zoomEnabled:true,
+          maxZoom:100,
+          minZoom:0.1,
+          zoomScaleSensitivity:0.1,
+          fit:true,
+          center:true,
+          controlIconsEnabled:true
+        });
       });
-    });
+    }
   
     return false;
   }.bind(this);
