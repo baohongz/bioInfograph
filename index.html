@@ -377,6 +377,24 @@
 
     el.attr('data-custom-id', imageId);
     el.draggable({ handle: "#dragHandle" });
+    if (el[0].querySelector(".plot-box")) {
+      el[0].querySelector(".plot-box").addEventListener('click', function (e) {
+        if (drag || (e.path[0].classList[0] && e.path[0].classList[0].includes("svg-pan-zoom-control"))) return;
+        var myImg = this.id.replace('_container','');
+        $("#dialog-2").html(this.innerHTML.replace(myImg,myImg+'_popup'));
+        $("#dialog-2").dialog("open");
+        svgPanZoom('#'+myImg+'_popup', {
+          zoomEnabled:true,
+          maxZoom:100,
+          minZoom:0.1,
+          zoomScaleSensitivity:0.1,
+          fit:true,
+          center:true,
+          controlIconsEnabled:true
+        });
+      });
+    }
+
     if (num < parseInt(imageId.replace("plot",""))) {
       num = parseInt(imageId.replace("plot",""));
     }
