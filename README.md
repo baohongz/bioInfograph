@@ -3,6 +3,7 @@
 Online App Link: https://baohongz.github.io/bioInfograph
 
 ---
+[Interactive version](https://baohongz.github.io/bioInfograph/figure/Fig1.html)
 ![bioInfograph](figure/Fig1.png?raw=true "bioInfograph")
 ---
-[HD Video](https://baohongz.github.io/bioInfograph/demo_video.html)
+
