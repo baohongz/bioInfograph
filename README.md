@@ -4,6 +4,6 @@ Online App Link: https://baohongz.github.io/bioInfograph
 
 ---
 [Interactive version](https://baohongz.github.io/bioInfograph/figure/Fig1.html)
-![bioInfograph](figure/Fig1.png?raw=true "bioInfograph")
+![bioInfograph](figure/Figure1.jpg?raw=true "bioInfograph")
 ---
 
