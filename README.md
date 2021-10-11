@@ -2,7 +2,7 @@
 
 * [Online App](https://baohongz.github.io/bioInfograph)
 * [User Guide](https://baohongz.github.io/bioInfograph/help.html)
-
+* Chrome browser is preferred as bioInfograph might not work well in other web browsers.
 ---
 [Interactive version](https://baohongz.github.io/bioInfograph/figure/Fig1.html)
 ![bioInfograph](figure/Figure1.jpg?raw=true "bioInfograph")
