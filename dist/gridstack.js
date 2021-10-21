@@ -1168,8 +1168,8 @@
                         .attr('data-gs-x', node.x)
                         .attr('data-gs-y', node.y)
                         .attr('data-gs-width', node.width)
-                        .attr('data-gs-height', node.height)
-                        .removeAttr('style');
+                        .attr('data-gs-height', node.height);
+//                        .removeAttr('style'); // Baohong: preserve inline styles, positions and z-index after moving grid cell
                 } else {
                     o
                         .attr('data-gs-x', node._beforeDragX)
