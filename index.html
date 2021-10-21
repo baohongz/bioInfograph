@@ -666,9 +666,9 @@ console.log(svgclass.length);
       };
     });
 
-    var text = '<html>\n<head>\n'+$("head").html()+'<link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/dropzone.css">\n</head>\n<body>\n';
+    var text = '<html>\n<head>\n'+$("head").html().replace(/<title>bioInfograph/,"<title>plot_by_bioInfograph")+'<link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/dropzone.css">\n</head>\n<body>\n';
     text += $("#block3").html();
-console.log(JSON.stringify(locsize));
+	console.log(JSON.stringify(locsize));
     text += '<div id=locsize style="display:none;">' + JSON.stringify(locsize) + '</div>';
 
     Object.keys(locsize).forEach(function(myImg) {
@@ -685,7 +685,7 @@ console.log(JSON.stringify(locsize));
     text = text.replace(/<!--/g,'').replace(/-->/g,'');
 
     var blob = new Blob([text], {type: "text/plain;charset=utf-8"});
-    saveAs(blob, "Myplot.html");
+    saveAs(blob, "plot_by_bioInfograph.html");
   });
 </script>
 
@@ -709,7 +709,7 @@ console.log(JSON.stringify(locsize));
   .container .ui-draggable-handle {display: none;}
 </style>
 <div class="container" style="width:1152px;">
-  <div class="row no-print"><a class="btn btn-default btn-sm" id="toggle-control">Show/Hide Control</a> | Click on individual panels to view enlarged plots | Press the left mouse button and drag to pan | Click on '+' or '-' control to zoom in or out | Press and drag borders to resize | Made by <a href="https://github.com/baohongz/bioInfograph">bioInfograph</a></div>
+  <div class="row no-print"><a class="btn btn-default btn-sm" id="toggle-control">Show/Hide Control</a> | Click on individual panels to view enlarged plots | Press the left mouse button and drag to pan | Click on '+' or '-' control to zoom in or out | Press and drag borders to resize | Made by <a href="https://github.com/baohongz/bioInfograph">bioInfograph</a></div><br>
   <div class="row"> <div class="grid-stack">
   </div></div>
 </div>
