@@ -1,2 +1,3 @@
-# modify gridstack.js to match the width
-node-sass < gridstack_width.scss >> gridstack.css
+# 48 grid columns
+
+node-sass < gridstack_width.scss > gridstack-extra.css

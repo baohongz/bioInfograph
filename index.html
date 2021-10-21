@@ -5,24 +5,35 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>bioInfograph</title>
-  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/bootstrap.min.css">
-  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/gridstack.css"/>
-  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/trash.css"/>
-  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/dropzone.css">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico" type="text/css"> 
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Freckle+Face" type="text/css"> 
+
   <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/jquery-ui.css">
-  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel='stylesheet' type='text/css'> 
-  <link href="https://fonts.googleapis.com/css?family=Freckle+Face" rel='stylesheet' type='text/css'> 
+  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/bootstrap.min.css">
+  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/trash.css"/>
+  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/gridstack.css"/>
+  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/gridstack-extra.css"/>
+  <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/dropzone.css">
 
   <script src="https://baohongz.github.io/bioInfograph/dist/jquery.min.js"></script>
   <script src="https://baohongz.github.io/bioInfograph/dist/jquery-ui.min.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/bootstrap.min.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/lodash.min.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/gridstack.js"></script>
   <script src="https://baohongz.github.io/bioInfograph/dist/gridstack.jQueryUI.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/dropzone.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/svg-pan-zoom.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/svg-inject.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/FileSaver.min.js"></script>
+
   <script src="https://baohongz.github.io/bioInfograph/dist/tinymce/tinymce.min.js"></script>
 
   <style type="text/css">
@@ -169,7 +180,7 @@
     <div align=center class="col-xs-4">
       <div class="trash"></div>
     </div>
-    <div align=center class="col-xs-3"><img width=240 height=200 src=bioInfograph_help.png></div>
+    <div align=center class="col-xs-3"><img width=240 height=200 src="https://baohongz.github.io/bioInfograph/bioInfograph_help.png"></div>
   </div> 
   <div class="row" id="plotcanvas">
     <div id="grid-stack-holder" class="grid-stack"><div id="dragHandle"></div>
@@ -177,6 +188,9 @@
 </div>
 
 <script type="text/javascript">
+  // Allowing grids to be overlapped with each other 
+  GridStackUI.Engine.prototype._fixCollisions = function(node) {};
+
   var myFile = null;
   var num = 1;
   var imageId;
@@ -402,6 +416,7 @@
   }.bind(this);
 
   var options = {
+    width: 48,
     removable: '.trash',
     removeTimeout: 100,
     verticalMargin: 0,
