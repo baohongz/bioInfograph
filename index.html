@@ -346,6 +346,7 @@
                 });
                 panZoom.zoom(matrix.a);
                 panZoom.pan({x: matrix.e, y: matrix.f});
+                document.getElementById(myImg).getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
               }
             });
             num += 1;
@@ -398,6 +399,7 @@
         if (drag || (e.path[0].classList[0] && e.path[0].classList[0].includes("svg-pan-zoom-control"))) return;
         var myImg = this.id.replace('_container','');
         $("#dialog-2").html(this.innerHTML.replace(myImg,myImg+'_popup'));
+        $("#dialog-2 #svg-pan-zoom-controls").remove();
         $("#dialog-2").dialog("open");
         svgPanZoom('#'+myImg+'_popup', {
           zoomEnabled:true,
@@ -408,6 +410,7 @@
           center:true,
           controlIconsEnabled:true
         });
+        document.getElementById(myImg+'_popup').getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
       });
     }
 
@@ -602,6 +605,7 @@ console.log(svgclass.length);
         if (drag || (e.path[0].classList[0] && e.path[0].classList[0].includes("svg-pan-zoom-control"))) return;
         var myImg = this.id.replace('_container','');
         $("#dialog-2").html(this.innerHTML.replace(myImg,myImg+'_popup')); 
+        $("#dialog-2 #svg-pan-zoom-controls").remove();
         $("#dialog-2").dialog("open");
         svgPanZoom('#'+myImg+'_popup', {
           zoomEnabled:true,
@@ -612,6 +616,7 @@ console.log(svgclass.length);
           center:true,
           controlIconsEnabled:true
         });
+        document.getElementById(myImg+'_popup').getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
       });
     }
   
@@ -644,6 +649,7 @@ console.log(svgclass.length);
         center:true,
         controlIconsEnabled:true
       });
+      document.getElementById(myImg).getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
     }
   });
 
@@ -791,6 +797,7 @@ console.log(svgclass.length);
     });
     panZoom.zoom(locsize[myImg].zoom);
     panZoom.pan(locsize[myImg].pan);
+    document.getElementById(myImg).getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
   });
 
   $(".plot-box").click (function (e) {
@@ -808,6 +815,7 @@ console.log(svgclass.length);
       center:true,
       controlIconsEnabled:true
     });
+    document.getElementById(myImg+'_popup').getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
   });
 });
 </script>
