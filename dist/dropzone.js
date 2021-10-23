@@ -111,7 +111,7 @@
         dropzone.on("dragEnter", function() { });
      */
 
-    Dropzone.prototype.events = ["drop", "dragstart", "dragend", "dragenter", "dragover", "dragleave", "addedfile", "addedfiles", "removedfile", "thumbnail", "error", "errormultiple", "processing", "processingmultiple", "uploadprogress", "totaluploadprogress", "sending", "sendingmultiple", "success", "successmultiple", "canceled", "canceledmultiple", "complete", "completemultiple", "reset", "maxfilesexceeded", "maxfilesreached", "queuecomplete"];
+    Dropzone.prototype.events = ["drop", "dragstart", "dragend", "dragenter", "dragover", "dragleave", "addedfile", "addedfiles", "removedfile", "thumbnail", "error", "errormultiple", "processing", "processingmultiple", "uploadprogress", "totaluploadprogress", "sending", "sendingmultiple", "success", "successmultiple", "canceled", "canceledmultiple", "complete", "completemultiple", "reset", "maxfilesexceeded", "maxfilesreached", "queuecomplete", "previewReady"];
 
     Dropzone.prototype.defaultOptions = {
       url: null,
@@ -353,7 +353,10 @@
           }
           return setTimeout(((function(_this) {
             return function() {
-              return file.previewElement.classList.add("dz-image-preview");
+              ret = file.previewElement.classList.add("dz-image-preview");
+// Baohong: add a new status, previewReady so that the main program can react on it
+              _this.emit("previewReady", file);
+              return ret;
             };
           })(this)), 1);
         }
@@ -425,6 +428,7 @@
       maxfilesexceeded: noop,
       maxfilesreached: noop,
       queuecomplete: noop,
+      previewReady: noop,
       addedfiles: noop
     };
 
@@ -1500,6 +1504,8 @@
     };
 
     Dropzone.prototype.submitRequest = function(xhr, formData, files) {
+// Baohong: Use in-memory content without sending data
+      return this._finished(files, "Get File");
       return xhr.send(formData);
     };
 
