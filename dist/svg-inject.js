@@ -139,7 +139,11 @@
     }
   }
 
-
+  // Baohong: set a unique number for each SVG
+  function uniqueIdCounterNumber(number) {
+    uniqueIdCounter = number;
+  } 
+  
   // This function appends a suffix to IDs of referenced elements in the <defs> in order to  to avoid ID collision
   // between multiple injected SVGs. The suffix has the form "--inject-X", where X is a running number which is
   // incremented with each injection. References to the IDs are adjusted accordingly.
@@ -150,7 +154,7 @@
     var idSuffix = ID_SUFFIX + uniqueIdCounter++;
     // Regular expression for functional notations of an IRI references. This will find occurences in the form
     // url(#anyId) or url("#anyId") (for Internet Explorer) and capture the referenced ID
-    var funcIriRegex = /url\("?#([a-zA-Z][\w:.-]*)"?\)/g;
+    var funcIriRegex = /url\(["']?#([a-zA-Z][\w:.-]*)["']?\)/g; // Baohong: included single quote
     // Get all elements with an ID. The SVG spec recommends to put referenced elements inside <defs> elements, but
     // this is not a requirement, therefore we have to search for IDs in the whole SVG.
     var idElements = svgElem.querySelectorAll('[id]');
@@ -685,6 +689,11 @@
     };
 
     window[globalName] = SVGInject;
+// Baohong: export functions
+    window.buildSvgElement = buildSvgElement;
+    window.makeIdsUnique = makeIdsUnique;
+    window.svgElemToSvgString  = svgElemToSvgString;
+    window.uniqueIdCounterNumber = uniqueIdCounterNumber;
 
     return SVGInject;
   }
