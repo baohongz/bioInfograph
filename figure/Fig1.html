@@ -22,7 +22,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>bioInfograph</title>
+  <title>plot_by_bioInfograph</title>
   <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/bootstrap.min.css">
   <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/gridstack.css">
   <link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/trash.css">
@@ -174,7 +174,7 @@
   .container .ui-draggable-handle {display: none;}
 </style>
 <div class="container" style="width:1152px;">
-  <div class="row no-print"><a class="btn btn-default btn-sm" id="toggle-control">Show/Hide Control</a> | Click on individual panels to view enlarged plots | Press the left mouse button and drag to pan | Click on '+' or '-' control to zoom in or out | Press and drag borders to resize | Made by <a href="https://github.com/baohongz/bioInfograph">bioInfograph</a></div><p>
+  <div class="row no-print"><a class="btn btn-default btn-sm" id="toggle-control">Show/Hide Control</a> | Click on individual panels to view enlarged plots | Press the left mouse button and drag to pan | Click on '+' or '-' control to zoom in or out | Press and drag borders to resize | Made by <a href="https://github.com/baohongz/bioInfograph">bioInfograph</a></div><br>
   <div class="row"> <div class="grid-stack">
   </div></div>
 </div>
@@ -239,6 +239,7 @@ $(function () {
     });
     panZoom.zoom(locsize[myImg].zoom);
     panZoom.pan(locsize[myImg].pan);
+    document.getElementById(myImg).getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
   });
 
   $(".plot-box").click (function (e) {
@@ -256,6 +257,7 @@ $(function () {
       center:true,
       controlIconsEnabled:true
     });
+    document.getElementById(myImg+'_popup').getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
   });
 });
 </script>
