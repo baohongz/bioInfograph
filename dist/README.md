@@ -16,3 +16,6 @@ https://github.com/iconfu/svg-inject/releases/tag/v1.2.3
 
 # dropzone.js
 https://github.com/dropzone/dropzone/releases/tag/v5.1.1
+
+# tinymce.js
+https://download.tiny.cloud/tinymce/community/tinymce_4.8.4.zip
