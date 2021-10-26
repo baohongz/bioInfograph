@@ -147,6 +147,9 @@
     let drag = false; 
     document.addEventListener( 'mousedown', () => drag = false); 
     document.addEventListener( 'mousemove', () => drag = true); 
+
+    // Allowing grids to be overlapped with each other 
+    GridStackUI.Engine.prototype._fixCollisions = function(node) {};
   </script>
 </head>
 
@@ -190,9 +193,6 @@
 </div>
 
 <script type="text/javascript">
-  // Allowing grids to be overlapped with each other 
-  GridStackUI.Engine.prototype._fixCollisions = function(node) {};
-
   var myFile = null;
   var num = 1;
   var imageId;
