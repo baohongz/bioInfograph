@@ -150,6 +150,9 @@
     let drag = false; 
     document.addEventListener( 'mousedown', () => drag = false); 
     document.addEventListener( 'mousemove', () => drag = true); 
+
+    // Allowing grids to be overlapped with each other
+    GridStackUI.Engine.prototype._fixCollisions = function(node) {};
   </script>
 <style type="text/css" data-gs-style-id="gridstack-style-37098"></style><link rel="stylesheet" type="text/css" id="u0" crossorigin="anonymous" href="https://baohongz.github.io/bioInfograph/dist/tinymce/skins/lightgray/skin.min.css"><link rel="stylesheet" type="text/css" id="u1" crossorigin="anonymous" href="https://baohongz.github.io/bioInfograph/dist/tinymce/skins/lightgray/content.inline.min.css"><link rel="stylesheet" type="text/css" id="u2" crossorigin="anonymous" href="//fonts.googleapis.com/css?family=Lato:300,300i,400,400i"><link rel="stylesheet" href="https://baohongz.github.io/bioInfograph/dist/dropzone.css">
 </head>
@@ -239,7 +242,7 @@ $(function () {
     });
     panZoom.zoom(locsize[myImg].zoom);
     panZoom.pan(locsize[myImg].pan);
-    document.getElementById(myImg).getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
+    document.getElementById(myImg).getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)');
   });
 
   $(".plot-box").click (function (e) {
@@ -257,7 +260,7 @@ $(function () {
       center:true,
       controlIconsEnabled:true
     });
-    document.getElementById(myImg+'_popup').getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)')
+    document.getElementById(myImg+'_popup').getElementById("svg-pan-zoom-controls").setAttribute('transform', 'translate(0  0) scale(0.6)');
   });
 });
 </script>
