@@ -8,6 +8,9 @@ node-sass < gridstack_width.scss > gridstack-extra.css
 # bootstrap.js
 https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.zip
 
+# lodash.js
+https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.5.0/lodash.min.js
+
 # svg-pan-zoom.js
 https://github.com/bumbu/svg-pan-zoom/releases/tag/3.6.1
 
