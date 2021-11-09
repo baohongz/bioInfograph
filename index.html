@@ -24,8 +24,9 @@
 
 <!-- https://gridstackjs.com : gridstack.js is a modern Typescript library designed to help developers create beautiful 
 draggable, resizable, responsive bootstrap-friendly layouts with just a few lines of code. Each panel in the grid holds 
-one image. -->
-  <script src="https://baohongz.github.io/bioInfograph/dist/gridstack.js"></script>
+one image. Modifications are made to preserve inline styles, including positions, size and z-index after moving grid 
+panel, see https://bit.ly/3nzGH1s for details. -->
+  <script src="dist/gridstack.js"></script>
   <script src="https://baohongz.github.io/bioInfograph/dist/gridstack.jQueryUI.js"></script>
 
 <!-- https://www.dropzone.dev/js : Dropzone.js is one of the most popular drag and drop JavaScript libraries. It is free, 
@@ -70,28 +71,26 @@ https://bit.ly/3Gus3kz for details. -->
 //    background-color: #f5f5f5 !important;
     }
 
-    .grid-stack .grid-stack-placeholder > .placeholder-content {
-      border: 1px dashed red;
+    .grid-stack {
+      background: white;
+      border: 1px solid #0087F7;
     }
 
-    .grid-stack .grid-stack-item .grid-stack-item-content,
-    .grid-stack .grid-stack-item .placeholder-content {
+    .grid-stack .grid-stack-item .grid-stack-item-content, .grid-stack .grid-stack-placeholder > .placeholder-content {
       left: 0px;
       right: 0px;
       padding: 0px;
-      border: 1px dashed red;  
       overflow: hidden;
-    }
-
-    .grid-stack {
-      background: lightgoldenrodyellow;
-      background: white;
-      border: 1px solid #0087F7;
     }
 
     .grid-stack-item-content {
       background: none;
       text-align: center;
+      border: 1px dashed red;
+    }
+
+    .grid-stack .grid-stack-placeholder > .placeholder-content {
+      border: none;
     }
 
     @media print {
@@ -103,8 +102,7 @@ https://bit.ly/3Gus3kz for details. -->
       #dragHandle {display: none;}
       #toggle-control {display: none;}
       .grid-stack {background: none; border:none;}
-      .grid-stack .grid-stack-item .grid-stack-item-content,
-      .grid-stack .grid-stack-item .placeholder-content { border: none; }
+      .grid-stack .grid-stack-item .grid-stack-item-content, .grid-stack .grid-stack-placeholder > .placeholder-content { border: none; }
     }
 
     #dragHandle {
@@ -509,7 +507,7 @@ https://bit.ly/3Gus3kz for details. -->
 
   $('.grid-stack').on('dragstop', function (event, ui) {
     var element = $(event.target);
-// Return if the dragged panel is not above trash bin after stop
+// Return if the grid stack holder (canvas) is dragged
     if (element.context.id == "grid-stack-holder") return;
     var node = element.data('_gridstack_node');
     var removeId = ui.helper.context.id+'_hdl';
@@ -798,18 +796,17 @@ https://bit.ly/3Gus3kz for details. -->
 <div id="block1" style="display:none;">
 <!--
 <style type="text/css">
-  .grid-stack .grid-stack-item .grid-stack-item-content,
-  .grid-stack .grid-stack-item .placeholder-content {
+  .grid-stack .grid-stack-item .grid-stack-item-content, .grid-stack .grid-stack-placeholder > .placeholder-content {
     left: 0px;
     right: 0px;
     padding: 0px;
-    border: 0;
+    border: none;
     overflow: hidden;
   }
   
   .grid-stack {
     background: white;
-    border: 0;
+    border: none;
   }
   .container .svg-pan-zoom-control {display: none;}
   .container .ui-draggable-handle {display: none;}

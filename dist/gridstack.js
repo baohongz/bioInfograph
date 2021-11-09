@@ -1169,14 +1169,14 @@
                         .attr('data-gs-y', node.y)
                         .attr('data-gs-width', node.width)
                         .attr('data-gs-height', node.height);
-//                        .removeAttr('style'); // Baohong: preserve inline styles, positions and z-index after moving grid cell
+//                        .removeAttr('style'); // Baohong: preserve inline styles, including positions, size and z-index after moving grid panel
                 } else {
                     o
                         .attr('data-gs-x', node._beforeDragX)
                         .attr('data-gs-y', node._beforeDragY)
                         .attr('data-gs-width', node.width)
                         .attr('data-gs-height', node.height)
-                        .removeAttr('style');
+//                        .removeAttr('style'); // Baohong: preserve inline styles, including positions, size and z-index after moving grid panel
                     node.x = node._beforeDragX;
                     node.y = node._beforeDragY;
                     self.grid.addNode(node);

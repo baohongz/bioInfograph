@@ -1,6 +1,8 @@
 # gridstack.js
 https://github.com/gridstack/gridstack.js/releases/tag/v0.3.0
 
+### Note: Modifications are made to preserve inline styles, including positions, size and z-index after moving grid panel, see https://bit.ly/3nzGH1s for details.
+
 ## stylesheet of 48 grid columns
 
 node-sass < gridstack_width.scss > gridstack-extra.css
@@ -23,8 +25,13 @@ https://github.com/bumbu/svg-pan-zoom/releases/tag/3.6.1
 # svg-inject.js
 https://github.com/iconfu/svg-inject/releases/tag/v1.2.3
 
+### Note: 
+
 # dropzone.js
 https://github.com/dropzone/dropzone/releases/tag/v5.1.1
 
 # tinymce.js
 https://download.tiny.cloud/tinymce/community/tinymce_4.8.4.zip
+
+# FileSaver.js
+https://github.com/eligrey/FileSaver.js/releases/tag/1.3.4
