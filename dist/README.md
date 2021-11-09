@@ -1,7 +1,7 @@
 # gridstack.js
 https://github.com/gridstack/gridstack.js/releases/tag/v0.3.0
 ```
-Note: Modifications are made to preserve inline styles, including positions, size and z-index after moving
+Modifications are made to preserve inline styles, including positions, size and z-index after moving
 grid panel, see https://bit.ly/3nzGH1s for details.
 ```
 ## stylesheet of 48 grid columns
@@ -25,11 +25,16 @@ https://github.com/bumbu/svg-pan-zoom/releases/tag/3.6.1
 
 # svg-inject.js
 https://github.com/iconfu/svg-inject/releases/tag/v1.2.3
-
-### Note: 
+```
+Modifications: added function to set numeric portion of ID; exported functions to be global scope, see
+https://bit.ly/3Gus3kz for details.
 
 # dropzone.js
 https://github.com/dropzone/dropzone/releases/tag/v5.1.1
+```
+Modifications are made to allow emitting "previewReady" status when an image is fully
+loaded into memory and displayed in the preview box, see https://bit.ly/3Gup4Zp for details.
+```
 
 # tinymce.js
 https://download.tiny.cloud/tinymce/community/tinymce_4.8.4.zip
