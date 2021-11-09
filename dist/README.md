@@ -4,10 +4,12 @@ https://github.com/gridstack/gridstack.js/releases/tag/v0.3.0
 Note: Modifications are made to preserve inline styles, including positions, size and z-index after moving
 grid panel, see https://bit.ly/3nzGH1s for details.
 ```
+(https://bit.ly/3nzGH1s)
 ## stylesheet of 48 grid columns
 
+``` bash
 node-sass < gridstack_width.scss > gridstack-extra.css
-
+```
 # bootstrap.js
 https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.zip
 
