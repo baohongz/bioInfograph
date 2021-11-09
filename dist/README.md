@@ -5,7 +5,7 @@ Modifications are made to preserve inline styles, including positions, size and 
 grid panel, see https://bit.ly/3nzGH1s for details.
 ```
 (https://bit.ly/3nzGH1s)
-## stylesheet of 48 grid columns
+## Creating stylesheet definition of 48 grid columns
 
 ``` bash
 node-sass < gridstack_width.scss > gridstack-extra.css
@@ -30,6 +30,8 @@ https://github.com/iconfu/svg-inject/releases/tag/v1.2.3
 ```
 Modifications: added function to set numeric portion of ID; exported functions to be global scope, see
 https://bit.ly/3Gus3kz for details.
+```
+(https://bit.ly/3Gus3kz)
 
 # dropzone.js
 https://github.com/dropzone/dropzone/releases/tag/v5.1.1
@@ -37,6 +39,7 @@ https://github.com/dropzone/dropzone/releases/tag/v5.1.1
 Modifications are made to allow emitting "previewReady" status when an image is fully
 loaded into memory and displayed in the preview box, see https://bit.ly/3Gup4Zp for details.
 ```
+(https://bit.ly/3Gup4Zp)
 
 # tinymce.js
 https://download.tiny.cloud/tinymce/community/tinymce_4.8.4.zip
