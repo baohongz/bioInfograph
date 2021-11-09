@@ -1,8 +1,8 @@
 # gridstack.js
 https://github.com/gridstack/gridstack.js/releases/tag/v0.3.0
-
-### Note: Modifications are made to preserve inline styles, including positions, size and z-index after moving grid panel, see https://bit.ly/3nzGH1s for details.
-
+```
+Note: Modifications are made to preserve inline styles, including positions, size and z-index after moving grid panel, see https://bit.ly/3nzGH1s for details.
+```
 ## stylesheet of 48 grid columns
 
 node-sass < gridstack_width.scss > gridstack-extra.css
