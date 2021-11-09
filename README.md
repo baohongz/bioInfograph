@@ -7,4 +7,5 @@
 [Interactive version](https://baohongz.github.io/bioInfograph/figure/Fig1.html)
 ![bioInfograph](figure/Figure1.jpg?raw=true "bioInfograph")
 ---
-
+## For developer
+* [JavaScript libraries used in the tool](https://github.com/baohongz/bioInfograph/blob/gh-pages/dist/README.md)
