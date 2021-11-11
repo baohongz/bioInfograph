@@ -1065,6 +1065,7 @@
             }
 
             if (event.type == 'drag') {
+/* Baohong: preserve inline styles, including positions, size and z-index while dragging grid panel around
                 if (x < 0 || x >= self.grid.width || y < 0 || (!self.grid.float && y > self.grid.getGridHeight())) {
                     if (!node._temporaryRemoved) {
                         if (self.opts.removable === true) {
@@ -1097,6 +1098,7 @@
                         node._temporaryRemoved = false;
                     }
                 }
+*/
             } else if (event.type == 'resize')  {
                 if (x < 0) {
                     return;
@@ -1175,7 +1177,7 @@
                         .attr('data-gs-x', node._beforeDragX)
                         .attr('data-gs-y', node._beforeDragY)
                         .attr('data-gs-width', node.width)
-                        .attr('data-gs-height', node.height)
+                        .attr('data-gs-height', node.height);
 //                        .removeAttr('style'); // Baohong: preserve inline styles, including positions, size and z-index after moving grid panel
                     node.x = node._beforeDragX;
                     node.y = node._beforeDragY;
