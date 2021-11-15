@@ -8,9 +8,9 @@
 ![bioInfograph](figure/Figure1.jpg?raw=true "bioInfograph")
 ---
 ## Installation as a Desktop app
-* Method 1: Go to https://baohongz.github.io/bioInfograph/index.html, then right-click to "Save As" an HTML file to the desktop. Launch the app by double-clicking the HTML file on the desktop.
+* Method 1: Go to https://baohongz.github.io/bioInfograph/index.html, then right-click to "Save As" an HTML file to the desktop. Launch the app by double-clicking the HTML file on the desktop. Need to re-save the HTML page when there is an update.
 ![installation1](figure/installation1.jpeg?raw=true "installation1")
-* Method 2: Go to https://baohongz.github.io/bioInfograph/index.html, next click the three-dot icon in the top-right corner of the window, then hover your mouse over "More Tools" and click "Create Shortcut". On the next screen, enter a name for the shortcut and click "Create". You can also check the "Open as window" box to have the website open in its own browser window, otherwise it will open in a new tab of your existing browser window. Launch the app by double-clicking the shortcut on the desktop.
+* Method 2: Go to https://baohongz.github.io/bioInfograph/index.html, next click the three-dot icon in the top-right corner of the window, then hover your mouse over "More Tools" and click "Create Shortcut". On the next screen, enter a name for the shortcut and click "Create". You can also check the "Open as window" box to have the website open in its own browser window, otherwise it will open in a new tab of your existing browser window. Launch the app by double-clicking the shortcut on the desktop. Update automatically.
 ![installation2](figure/installation2.jpeg?raw=true "installation2")
 ---
 ## For developer
