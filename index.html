@@ -68,6 +68,7 @@ https://bit.ly/3Gus3kz for details. -->
 
     .trash {
       height: 200px;
+      margin-bottom: 0px;
 //    background-color: #f5f5f5 !important;
     }
 
@@ -194,8 +195,8 @@ https://bit.ly/3Gus3kz for details. -->
   <div class="btn-group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Demo</button>
     <div class="dropdown-menu" style="padding:4px;">
-      <a class="dropdown-item" href="https://baohongz.github.io/bioInfograph/figure/Fig1.html">Demo1</a>
-      <a class="dropdown-item" href="https://interactivereport.github.io/Quickomics/Figure1.html">Demo2</a>
+      <a class="dropdown-item" href="https://baohongz.github.io/bioInfograph/figure/Fig1.html">Demo1</a><br>
+      <a class="dropdown-item" href="https://interactivereport.github.io/Quickomics/Figure1.html">Demo2</a><br>
       <a class="dropdown-item" href="https://interactivereport.github.io/CellDepot/Figure2.html">Demo3</a>
     </div>
   </div><!-- /btn-group -->
@@ -206,7 +207,7 @@ https://bit.ly/3Gus3kz for details. -->
       <input style="display: inline-block; width: 50px;" type="range" min="0" max="1" value="1" step="0.05" id="container_opacity" oninput="setOpacity(this.value);">
     </div>
   </div>
-  <div class="row no-print" style="padding-top:5px">
+  <div class="row no-print" style="padding-top:5px;padding-bottom:3px;">
     <div id="list-1" style="width:80px;height:200px;overflow:auto;border:1px dashed red;float:left;z-index:200"></div>
     <div align=center class="col-xs-4" style="height:200px">
       <FORM class="dropzone needsclick" id="dropzoneUpload" action="/">
@@ -220,7 +221,7 @@ https://bit.ly/3Gus3kz for details. -->
   </div> 
 <!-- The whole canvas can be dragged up to get more working space. -->
   <div class="row" id="plotcanvas">
-    <div id="grid-stack-holder" class="grid-stack"><div id="dragHandle"></div>
+    <div id="grid-stack-holder" class="grid-stack"><div id="dragHandle"></div></div>
   </div>
 </div>
 
@@ -387,7 +388,7 @@ https://bit.ly/3Gus3kz for details. -->
                   zoomEnabled:true,
                   maxZoom:100,
                   minZoom:0.08,
-                  zoomScaleSensitivity:0.05,
+                  zoomScaleSensitivity:0.1,
                   fit:false,
                   center:false,
                   controlIconsEnabled:true
@@ -507,8 +508,11 @@ https://bit.ly/3Gus3kz for details. -->
 
   $('.grid-stack').on('dragstop', function (event, ui) {
     var element = $(event.target);
-// Return if the grid stack holder (canvas) is dragged
-    if (element.context.id == "grid-stack-holder") return;
+// Make trash area shorter to avoid panel moving over then being removed accidently when canvas is dragged up.
+    if (element.context.id == "grid-stack-holder") {
+      $(".trash").css("height",Math.min(200,200+parseInt(element.context.style.top)));
+      return; // If design canvas is dragged.
+    }
     var node = element.data('_gridstack_node');
     var removeId = ui.helper.context.id+'_hdl';
 // Remove the linked z-index handle if a panel is dropped into the trash bin
@@ -721,7 +725,7 @@ https://bit.ly/3Gus3kz for details. -->
         zoomEnabled:true,
         maxZoom:100,
         minZoom:0.1,
-        zoomScaleSensitivity:0.1,
+        zoomScaleSensitivity:0.01,
         fit:true,
         center:true,
         controlIconsEnabled:true
@@ -794,6 +798,7 @@ https://bit.ly/3Gus3kz for details. -->
     var blob = new Blob([text], {type: "text/plain;charset=utf-8"});
     saveAs(blob, "plot_by_bioInfograph.html");
   });
+  $("#grid-stack-holder").css("height",100);
 </script>
 
 <!-- Text in blocks is hidden and commented out so that it won't affect index.html. -->
@@ -876,7 +881,7 @@ https://bit.ly/3Gus3kz for details. -->
       zoomEnabled:false,
       maxZoom:100,
       minZoom:0.08,
-      zoomScaleSensitivity:0.05,
+      zoomScaleSensitivity:0.1,
       fit:false,
       center:false,
       controlIconsEnabled:true
