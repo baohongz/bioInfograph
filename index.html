@@ -94,6 +94,11 @@ https://bit.ly/3Gus3kz for details. -->
       border: none;
     }
 
+    .dropdown-menu {
+      min-width: 200px;
+      font-size: 12px;
+    }
+
     @media print {
 // Omit web components that are not parts of the figure.
 // The following definitions in bootstrap.min.css might affect printing.
@@ -192,19 +197,26 @@ https://bit.ly/3Gus3kz for details. -->
       <a class="btn btn-default" id="add-new-Text">Add Text Box</a>
       <a class="btn btn-default" id="add-new-Control">Add Control</a>
       <a class="btn btn-default" id="save-HTML">Save as HTML/session</a>
-  <div class="btn-group">
-    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Demo</button>
-    <div class="dropdown-menu" style="padding:4px;">
-      <a class="dropdown-item" href="https://baohongz.github.io/bioInfograph/figure/Fig1.html">Demo1</a><br>
-      <a class="dropdown-item" href="https://interactivereport.github.io/Quickomics/Figure1.html">Demo2</a><br>
-      <a class="dropdown-item" href="https://interactivereport.github.io/CellDepot/Figure2.html">Demo3</a>
-    </div>
-  </div><!-- /btn-group -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Demo</button>
+        <div class="dropdown-menu" style="padding:4px;">
+          <a class="dropdown-item" href="https://baohongz.github.io/bioInfograph/figure/Fig1.html">Demo1</a><br>
+          <a class="dropdown-item" href="https://interactivereport.github.io/Quickomics/Figure1.html">Demo2</a><br>
+          <a class="dropdown-item" href="https://interactivereport.github.io/CellDepot/Figure2.html">Demo3</a>
+        </div>
+      </div><!-- /btn-group -->
       <a class="btn btn-default" href="https://baohongz.github.io/bioInfograph/help.html" target=_blank>Help</a>
       <input type="checkbox" class="custom-control-input" id="no-white-bg" checked>
       <label class="custom-control-label" for="no-white-bg">No White Background</label> | 
       <label>Opacity of</label> <input id="plot_sel" style="text-align:right;" size=5>:<input id="container_opacity_val" size=4 style="border:none;padding:0px;" onchange="setOpacity(this.value);">
       <input style="display: inline-block; width: 50px;" type="range" min="0" max="1" value="1" step="0.05" id="container_opacity" oninput="setOpacity(this.value);">
+      <div class="btn-group">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</button>
+        <div class="dropdown-menu" style="padding:4px;">
+          <label>Zoom scale sensitivity</label>:<input id="zoom_scale_sen_val" size=4 style="border:none;padding:0px;"><br>
+          <input style="display: inline-block; width: 100px;" type="range" min="0.005" max="0.1" value="0.1" step="0.005" id="zoom_scale_sen" oninput="setZoomScaleSen(this.value);"><br>
+        </div>
+      </div><!-- /btn-group -->
     </div>
   </div>
   <div class="row no-print" style="padding-top:5px;padding-bottom:3px;">
@@ -267,10 +279,10 @@ https://bit.ly/3Gus3kz for details. -->
 // Meanwhile, initiate the position of the slider and text to reflect the opacity value of the panel.
   function selectPlot (plot) {
     $('#plot_sel').val(plot);
-    var opa = $('#'+plot+'_container')[0].style.opacity;
-    var opanum = parseFloat(opa);
-    document.getElementById('container_opacity_val').value = opanum; // text
-    document.getElementById('container_opacity').value = opanum; // slider
+    var opanum = parseFloat($('#'+plot+'_container')[0].style.opacity);
+    setOpacity(opanum);
+
+    setZoomScaleSen(0.1);
   }
 
 // Set opacity value of the selected grid panel and change the position of the slider and text to reflect the value.
@@ -278,6 +290,19 @@ https://bit.ly/3Gus3kz for details. -->
     $('#'+$('#plot_sel').val()+'_container')[0].style.opacity=val;
     document.getElementById('container_opacity_val').value = val; // text
     document.getElementById('container_opacity').value = val; // slider
+  }
+
+// Set zoom scale sensitivity
+  function setZoomScaleSen (val) {
+    var plot = $('#plot_sel').val();
+    if (document.getElementById(plot).getElementById("svg-pan-zoom-controls") !== null) {
+      svgPanZoom('#'+plot).setZoomScaleSensitivity(parseFloat(val));
+      document.getElementById('zoom_scale_sen_val').value = val; // text
+      document.getElementById('zoom_scale_sen').value = val; // slider
+    } else {
+      document.getElementById('zoom_scale_sen_val').value = 0.1; // text
+      document.getElementById('zoom_scale_sen').value = 0.1; // slider
+    }
   }
 
 // Parse styles defined inside style tags.
@@ -725,7 +750,7 @@ https://bit.ly/3Gus3kz for details. -->
         zoomEnabled:true,
         maxZoom:100,
         minZoom:0.1,
-        zoomScaleSensitivity:0.01,
+        zoomScaleSensitivity:0.1,
         fit:true,
         center:true,
         controlIconsEnabled:true
