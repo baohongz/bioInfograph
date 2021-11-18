@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>bioInfograph help</title>
-<script src="dist/html5media.min.js"></script>
+<script src="https://baohongz.github.io/bioInfograph/dist/html5media.min.js"></script>
 </head>
 </body>
 <!--
@@ -12,21 +12,35 @@
 -->
 <h2>User Guide</h2>
 <div id="guide" style="width:800;">
-<h3>Note: Chrome browser is preferred as bioInfograph might not work well in other web browsers.</h3>
+<h3>Note: bioInfograph is fully tested in Chrome browser that provides the best experience.</h3>
 <hr>
-<h3>
-The web-based application bioInfograph allows user to easily arrange multiple plots in SVG, png, jpeg, or gif format exported by other tools. Each individual plot can be adjusted in size and positioned freely on the canvas. Main functions are highlighted in red callout boxes. A basic workflow is outlined by numbered text boxes.
-<img src=figure/Figure2.jpg width=800><br>
+<font size=4>
+<ul>
+<li><h3>Usage of bioInfograph<h3></li>
+bioInfograph allows user to easily arrange multiple plots in SVG, png, jpeg, or gif format exported by other tools. Each individual plot can be adjusted in size and placed freely on the canvas. A minimal workflow is outlined by numbered callout boxes in red while important features not required by the minimal workflow are briefed in un-numbered boxes.
+<img src=https://baohongz.github.io/bioInfograph/figure/Figure3B.jpeg width=800><br>
 <p><br>
+
+<li><h3>Text input</h3></li>
 Input of paragraphs of text by clicking on “Add Text Box” and then typing in the resizable box that was added to the canvas a moment ago. Clicking on text will fire up the formatting menu while clicking on any area outside the box will exit the menu. Formatting is always applied to selected text.
-<img src=figure/Figure3.jpg width=800><br>
+<img src=https://baohongz.github.io/bioInfograph/figure/Figure4.jpeg width=800><br>
 <p><br>
+
+<li><h3>Change the vertical stacking order of plots</h3></li>
 Each plot will get a button handle when it is loaded onto the canvas. A plot and the linked handle will be highlighted in yellow when hovering mouse over a handle. Dragging the handle and dropping it at desired position among these buttons will change the relative vertical stacking, also known as z-index of the plot. The bottom position represents the top layer of the stack of plots on the canvas.
-<img src=figure/Figure4.jpg width=800><br>
+<img src=https://baohongz.github.io/bioInfograph/figure/Figure5.jpeg width=800><br>
 <p><br>
-Overlaying colored clustering plot and histological image to illustrate the relationship of histological features and cell clusters based on 10X Genomics spatial transcriptomics data (https://bit.ly/3F0xKWD). User can adjust the opacity of a selected plot by clicking a plot handle to select the plot and then typing a number or using the slide to change the value.
-<img src=figure/Figure5.jpg width=800><br>
-</h3>
+
+<li><h3>Overlaying plots</h3></li>
+Overlaying colored spatial clustering plot and histological image to illustrate the relationship of histological features and clusters based on 10X Genomics spatial transcriptomics data. User can adjust the opacity of a selected plot by clicking a plot handle to select the plot and then typing a number or using the slide to change the value. The zoom scale sensitivity of the plot is tuned to the smallest number for fine alignment of overlaid plots.
+<img src=https://baohongz.github.io/bioInfograph/figure/Figure6.jpeg width=800><br>
+<p><br>
+
+<li><h3>Zoom in and link out features</h3></li>
+<a href=https://baohongz.github.io/bioInfograph/figure/Fig1.html>Interactive online HTML presentation of Figure 1</a> with zoom in and link out features. Clicking on an individual plot will bring up a popup window with the enlarged zoomable version. Links in SVG are active, so clicking on “IRAK4” on the node in the phylogenetic tree will show detailed information about the protein in UniProt database.
+<img src=https://baohongz.github.io/bioInfograph/figure/Figure7.jpeg width=800><br>
+</ul>
+</font>
 </div>
 <hr>
 <h2><a href=https://baohongz.github.io/bioInfograph/figure/Fig1.html>Demo 1</a></h2>
