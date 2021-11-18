@@ -5,7 +5,7 @@
 * [User Guide](https://baohongz.github.io/bioInfograph/help.html)
 ---
 [Interactive version](https://baohongz.github.io/bioInfograph/figure/Fig1.html)
-![bioInfograph](figure/Figure1.jpg?raw=true "bioInfograph")
+![bioInfograph](figure/Figure1.jpeg?raw=true "bioInfograph")
 ---
 ## Installation as a Desktop app
 * Method 1: Go to https://baohongz.github.io/bioInfograph/index.html, then right-click to "Save As" an HTML file to the desktop. Launch the app by double-clicking the HTML file on the desktop. Need to re-save the HTML page when there is an update.
@@ -15,3 +15,4 @@
 ---
 ## For developer
 * [JavaScript libraries used in the tool](https://github.com/baohongz/bioInfograph/blob/gh-pages/dist/README.md)
+![Figure3A](figure/Figure3A.jpeg?raw=true "Figure3A")
