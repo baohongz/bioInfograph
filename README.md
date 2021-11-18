@@ -15,4 +15,4 @@
 ---
 ## For developer
 * [JavaScript libraries used in the tool](https://github.com/baohongz/bioInfograph/blob/gh-pages/dist/README.md)
-![Figure3A](figure/Figure3A.jpeg?raw=true "Figure3A")
+<img src="https://baohongz.github.io/bioInfograph/figure/Figure3A.jpeg" width=360>
