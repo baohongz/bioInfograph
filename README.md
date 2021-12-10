@@ -5,6 +5,7 @@
 * [User Guide](https://baohongz.github.io/bioInfograph/help.html)
 * Cite: K. Li, J. Hurt,  C.D. Whelan, R. Challa, D. Lin, and B. Zhang. bioInfograph: an online tool to design and display multi-panel scientific figure interactively. Frontiers in Genetics, 2021: fgene.2021.784531. https://www.frontiersin.org/articles/10.3389/fgene.2021.784531
 ---
+One sample output of bioInfograph:
 [Interactive version](https://baohongz.github.io/bioInfograph/figure/Fig1.html)
 ![bioInfograph](figure/Figure1.jpeg?raw=true "bioInfograph")
 ---
